@@ -1683,7 +1683,7 @@ tr:nth-child(odd) {
 hr {
   border: none; /* Remove default border */
   height: 3px; /* Adjust height as needed */
-  background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); /* Rainbow gradient */ !important;
+  background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red) !important;
 }
 /* Select all video elements */
 video {
