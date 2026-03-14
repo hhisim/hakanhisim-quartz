@@ -963,10 +963,14 @@
             "id": "f4a430168d233f9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/Album Covers.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Album Covers"
             }
           }
         ],
@@ -1112,8 +1116,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f4a430168d233f9c",
+  "active": "b08e7edf68a5ebe1",
   "lastOpenFiles": [
+    "SOFTWARE/Corel Painter.md",
+    "Gallery/gallery.md",
+    "Astral Nexus.md",
+    "quartz/static/favicon.png",
+    "quartz/static/new sign.png",
+    "Hakan Hisim.md",
+    "CODE_OF_CONDUCT.md",
+    "index.md",
     "content/publish3.css",
     "content/publish2.css",
     "content/publish.txt",
@@ -1127,7 +1139,6 @@
     "content/gallery 1.html",
     "content/favicon.png",
     "content/content/index.md",
-    "content/content",
     "quartz/static/og-image.png",
     "quartz/static/icon.png",
     "docs/tags/plugin.md",
@@ -1148,18 +1159,11 @@
     "docs/plugins/Frontmatter.md",
     "docs/plugins/Favicon.md",
     "docs/plugins/FolderPage.md",
-    "docs/plugins/ExplicitPublish.md",
-    "docs/plugins/Description.md",
-    "docs/plugins/CustomOgImages.md",
-    "docs/plugins/CreatedModifiedDate.md",
-    "docs/plugins/CrawlLinks.md",
     "docs/images/social-image-preview-light.png",
     "docs/images/social-image-preview-dark.png",
     "docs/images/quartz-layout-tablet.png",
     "docs/images/quartz-layout-mobile.png",
     "docs/images/quartz-layout-desktop.png",
-    "docs/images/quartz transform pipeline.png",
-    "docs/images/github-quick-setup.png",
     "Untitled.canvas"
   ]
 }

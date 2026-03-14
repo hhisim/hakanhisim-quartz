@@ -1,3 +1,0 @@
-  This period marked a bridge for us, a transition from the bustling metropolis to smaller towns. We found a place where we stayed for six months, which became a pivotal point for me. It was here that I delved deeper into the Universal Transmissions project and lucid dreaming, as well as meditation in general.
-
-Although this phase saw the least amount of work being done, it remains a magical period in my life—a time of introspection and exploration.
