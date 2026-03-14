@@ -1,35 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
+
 /* =====================================================
    HAKAN HISIM - ASTRAL NEXUS
    Quartz 4 Custom Stylesheet
    Based on Obsidianite theme by Benny Guo
-   Adapted for Quartz 4 CSS structure
+   Properly translated for Quartz 4 CSS structure
    ===================================================== */
 
-/* Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
-
 /* =====================================================
-   QUARTZ CSS VARIABLES (Dark Mode)
-   These map to quartz.config.ts color values
+   ROOT VARIABLES
    ===================================================== */
 
 :root {
-  --default-font: 'Rubik', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-  --default-font-size: 18px;
-  --body-font-weight: 450;
+  --gradientDegree: 135deg;
 
-  /* Custom accent colors */
+  /* Obsidianite accent colors */
   --text-accent: #0fb6d6;
   --text-sub-accent: #f4569d;
   --bg-accent-55: rgba(14, 210, 247, 0.55);
   --bg-sub-accent-55: rgba(244, 86, 157, 0.55);
   --bg-accent-25: rgba(14, 210, 247, 0.25);
   --text-highlight-bg: rgba(244, 86, 157, 0.25);
-  --background-modifier-border: rgba(14, 210, 247, 0.05);
-}
 
-/* Dark theme variable overrides */
-:root[saved-theme="dark"] {
+  /* Background layers */
+  --bg-primary: #100e17;
+  --bg-secondary: #191621;
+  --bg-primary-alt: #0d0b12;
+
+  /* Fonts */
+  --default-font: 'Rubik', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --mono-font: 'IBM Plex Mono', monospace;
+
+  /* Quartz variable overrides */
   --light: #100e17;
   --lightgray: #191621;
   --gray: #646464;
@@ -38,26 +40,25 @@
   --secondary: #0fb6d6;
   --tertiary: #f4569d;
   --highlight: rgba(14, 210, 247, 0.15);
-  --textHighlight: #263d9288;
+  --textHighlight: rgba(244, 86, 157, 0.25);
 }
 
 /* =====================================================
-   GLOBAL / BODY
+   BODY & SCROLLBAR
    ===================================================== */
 
 body {
   font-family: var(--default-font);
-  font-size: var(--default-font-size);
-  font-weight: var(--body-font-weight);
+  font-size: 18px;
+  font-weight: 450;
 }
 
-/* Scrollbar */
 ::-webkit-scrollbar { width: 0.6rem; }
 ::-webkit-scrollbar-thumb {
-  background-color: var(--lightgray);
+  background-color: rgba(14, 210, 247, 0.1);
   border-radius: 999px;
 }
-::-webkit-scrollbar-track { background: var(--light); }
+::-webkit-scrollbar-track { background: var(--bg-secondary); }
 
 /* =====================================================
    LOGO (replaces page title text)
@@ -107,42 +108,26 @@ h6 { font-size: 18px; color: #cbdbe5; font-family: var(--default-font); font-wei
    LINKS
    ===================================================== */
 
-a {
-  text-decoration: none !important;
-  color: var(--darkgray);
-  transition: color 350ms ease-in-out;
-}
+a { text-decoration: none !important; color: var(--darkgray); }
+a:hover { color: var(--text-accent); text-decoration: none !important; }
 
-a:hover {
-  color: var(--text-accent);
-  text-decoration: none !important;
-}
-
-/* Internal links */
 a.internal {
   background-image: linear-gradient(to bottom, var(--bg-accent-55) 0%, var(--bg-accent-55) 100%);
   background-position: 0 100%;
   background-repeat: repeat-x;
   background-size: 5px 5px;
+  transition: background 350ms ease-in-out;
 }
+a.internal:hover { color: #fff; background-size: 4px 50px; }
 
-a.internal:hover {
-  color: #fff;
-  background-size: 4px 50px;
-}
-
-/* External links */
 a.external {
   background-image: linear-gradient(to bottom, var(--bg-sub-accent-55) 0%, var(--bg-sub-accent-55) 100%);
   background-position: 0 100%;
   background-repeat: repeat-x;
   background-size: 5px 5px;
+  transition: background 350ms ease-in-out;
 }
-
-a.external:hover {
-  color: #fff;
-  background-size: 4px 50px;
-}
+a.external:hover { color: #fff; background-size: 4px 50px; }
 
 /* =====================================================
    BOLD & ITALIC
@@ -155,10 +140,7 @@ strong {
   background-clip: text;
 }
 
-em {
-  color: #bb9af7 !important;
-  font-family: var(--default-font) !important;
-}
+em { color: #bb9af7 !important; }
 
 /* =====================================================
    BLOCKQUOTE
@@ -207,67 +189,7 @@ hr {
   border: none;
   height: 3px;
   background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
-  margin-block-start: 3em;
-  margin-block-end: 3em;
-}
-
-/* =====================================================
-   IMAGES
-   ===================================================== */
-
-img {
-  border-radius: 10px;
-  transition: transform 0.3s ease;
-}
-
-img:hover {
-  transform: scale(1.05);
-}
-
-/* Prevent saving images */
-#gallery img, .lb img {
-  -webkit-user-drag: none;
-  user-select: none;
-  -webkit-user-select: none;
-  -webkit-touch-callout: none;
-}
-
-/* =====================================================
-   VIDEO
-   ===================================================== */
-
-video {
-  border-radius: 30px;
-}
-
-.video-container {
-  border-radius: 20px;
-  overflow: hidden;
-}
-
-.video-container iframe {
-  width: 100%;
-  height: 100%;
-}
-
-/* =====================================================
-   TABLES - Transparent
-   ===================================================== */
-
-table {
-  border-collapse: collapse;
-  border: none;
-  background: transparent;
-}
-
-th, td {
-  border: none !important;
-  background-color: transparent !important;
-}
-
-tr:nth-child(even),
-tr:nth-child(odd) {
-  background-color: transparent;
+  margin: 3em 0;
 }
 
 /* =====================================================
@@ -275,16 +197,15 @@ tr:nth-child(odd) {
    ===================================================== */
 
 code {
+  font-family: var(--mono-font);
   background-color: rgba(14, 210, 247, 0.05);
   color: rgba(14, 210, 247, 0.9) !important;
   padding: 0 5px;
   border-radius: 0.3rem;
 }
 
-pre {
-  background-color: #191621;
-  border-radius: 0.3em;
-}
+pre { background-color: #191621; border-radius: 0.3em; }
+pre code { background: none; padding: 0; }
 
 /* =====================================================
    TAGS
@@ -300,35 +221,53 @@ a.tag {
   font-weight: 500;
   text-decoration: none !important;
 }
-
 a.tag:hover {
   text-decoration: underline !important;
   text-decoration-color: var(--text-accent);
-  opacity: 1;
 }
 
 /* =====================================================
-   EXPLORER / SIDEBAR
+   TABLES - Transparent
+   ===================================================== */
+
+table { border-collapse: collapse; border: none; background: transparent; }
+th { background-color: transparent; border: none !important; }
+td { border: none !important; background-color: transparent !important; }
+tr:nth-child(even) { background-color: transparent; }
+tr:nth-child(odd) { background-color: transparent; }
+
+/* =====================================================
+   IMAGES
+   ===================================================== */
+
+img {
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+img:hover { transform: scale(1.05); }
+#gallery img, .lb img {
+  -webkit-user-drag: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+
+/* =====================================================
+   VIDEO
+   ===================================================== */
+
+video { border-radius: 30px; }
+.video-container { border-radius: 20px; overflow: hidden; }
+.video-container iframe { width: 100%; height: 100%; }
+
+/* =====================================================
+   EXPLORER SIDEBAR
    ===================================================== */
 
 .folder-title {
   color: var(--text-accent);
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.folder-title:hover,
-.file-title:hover {
-  color: var(--text-accent);
-}
-
-/* =====================================================
-   GRAPH VIEW
-   ===================================================== */
-
-.graph-outer {
-  margin-top: 12px;
 }
 
 /* =====================================================
@@ -347,17 +286,18 @@ button {
   text-transform: uppercase;
   transition: background 0.3s ease;
 }
+button:hover { background: linear-gradient(90deg, purple, cyan); }
 
-button:hover {
-  background: linear-gradient(90deg, purple, cyan);
-}
+/* =====================================================
+   GRAPH
+   ===================================================== */
+
+.graph-outer { margin-top: 12px; }
 
 /* =====================================================
    MOBILE
    ===================================================== */
 
 @media (max-width: 1000px) {
-  .graph-outer {
-    margin-top: 12px;
-  }
+  .graph-outer { margin-top: 12px; }
 }
