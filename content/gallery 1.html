@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pinterest Gallery</title>
+  <style>
+    body { margin:0; font-family: system-ui, sans-serif; background:#0f1113; }
+    #pinterest-gallery {
+      --gap: 14px;
+      --cols-lg: 6;
+      --cols-md: 4;
+      --cols-sm: 2;
+      --radius: 12px;
+      --shadow: 0 10px 22px rgba(0,0,0,.08);
+      --max-pin-h: 420px;
+      max-width: 1600px;
+      margin: 24px auto;
+      column-gap: var(--gap);
+    }
+    @media (min-width:1280px){#pinterest-gallery{column-count:var(--cols-lg)}}
+    @media (min-width:760px) and (max-width:1279.98px){#pinterest-gallery{column-count:var(--cols-md)}}
+    @media (max-width:759.98px){#pinterest-gallery{column-count:var(--cols-sm)}}
+    .pin{break-inside:avoid;display:inline-block;width:100%;margin:0 0 var(--gap);background:#fff;
+      border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}
+    .thumb{position:relative;max-height:var(--max-pin-h);overflow:hidden}
+    .pin img{display:block;width:100%;height:auto;transition:transform .25s ease;background:#f3f3f3}
+    .pin[data-tall="1"] .thumb img{width:100%;height:100%;object-fit:cover}
+    .pin:hover img{transform:scale(1.02)}
+    .meta{padding:8px 10px 10px;font:500 13px/1.35 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:#222;opacity:.85}
+    .lightbox-backdrop{position:fixed;inset:0;display:none;background:rgba(0,0,0,.75);
+      align-items:center;justify-content:center;z-index:99999;cursor:zoom-out}
+    .lightbox-backdrop.open{display:flex}
+    .lightbox-img{max-width:95vw;max-height:95vh;border-radius:10px;box-shadow:0 12px 28px rgba(0,0,0,.45)}
+  </style>
+</head>
+<body>
+  <div id="pinterest-gallery"
+       data-folder-id="1XWFPiAR6HeRhDWKQomsCcpEP79fk9vrO"
+       data-api-key="AIzaSyCHYh-1nR1-k6c-ymz0rLFf6QaCTFxQUiw"
+       data-thumb-width="720"
+       data-max-pin-height="420"></div>
+
+  <div class="lightbox-backdrop"><img class="lightbox-img" alt=""></div>
+
+  <script>
+  (function(){
+    const mount=document.getElementById("pinterest-gallery");
+    const FOLDER_ID=mount.dataset.folderId, API_KEY=mount.dataset.apiKey;
+    const THUMB_W=parseInt(mount.dataset.thumbWidth||"720",10);
+    const MAX_PIN_H=parseInt(mount.dataset.maxPinHeight||"420",10);
+    mount.style.setProperty("--max-pin-h", MAX_PIN_H+"px");
+    const FIELDS="nextPageToken,files(id,name,createdTime,imageMediaMetadata(width,height))";
+
+    function thumbUrl(id,w){return "https://lh3.googleusercontent.com/d/"+id+"=w"+w}
+    function largeUrl(id){return "https://lh3.googleusercontent.com/d/"+id+"=s2048"}
+
+    async function listImages(){
+      const base="https://www.googleapis.com/drive/v3/files";
+      const q="'"+FOLDER_ID+"' in parents and mimeType contains 'image/' and trashed = false";
+      let pageToken=null, files=[];
+      do{
+        const url=new URL(base);
+        url.searchParams.set("q", q);
+        url.searchParams.set("pageSize","1000");
+        url.searchParams.set("fields",FIELDS);
+        url.searchParams.set("key",API_KEY);
+        if(pageToken) url.searchParams.set("pageToken",pageToken);
+        const res=await fetch(url);
+        if(!res.ok){throw new Error("Drive API "+res.status)}
+        const data=await res.json();
+        (data.files||[]).forEach(f=>files.push(f));
+        pageToken=data.nextPageToken||null;
+      }while(pageToken);
+      files.sort((a,b)=>new Date(b.createdTime)-new Date(a.createdTime));
+      return files;
+    }
+
+    function render(files){
+      const frag=document.createDocumentFragment();
+      for(const f of files){
+        const w=f.imageMediaMetadata?.width||0, h=f.imageMediaMetadata?.height||0;
+        const isTall=h && w && (h/Math.max(1,w)>1.35)?1:0;
+        const fig=document.createElement("figure"); fig.className="pin"; if(isTall) fig.setAttribute("data-tall","1");
+        const a=document.createElement("a"); a.href=largeUrl(f.id);
+        const wrap=document.createElement("div"); wrap.className="thumb";
+        const img=document.createElement("img"); img.alt=f.name||""; img.loading="lazy"; img.decoding="async"; img.dataset.src=thumbUrl(f.id, THUMB_W);
+        wrap.appendChild(img); a.appendChild(wrap); fig.appendChild(a);
+        if(f.name){const cap=document.createElement("figcaption"); cap.className="meta"; cap.textContent=f.name; fig.appendChild(cap)}
+        frag.appendChild(fig);
+      }
+      mount.innerHTML=""; mount.appendChild(frag);
+      const imgs=mount.querySelectorAll("img[data-src]");
+      if("IntersectionObserver" in window){
+        const io=new IntersectionObserver((es,o)=>{es.forEach(en=>{if(!en.isIntersecting)return;const i=en.target;i.src=i.dataset.src;i.removeAttribute("data-src");o.unobserve(i);})},{rootMargin:"200px"});
+        imgs.forEach(i=>io.observe(i));
+      }else{imgs.forEach(i=>{i.src=i.dataset.src;i.removeAttribute("data-src")})}
+      const backdrop=document.querySelector(".lightbox-backdrop"), full=document.querySelector(".lightbox-img");
+      mount.addEventListener("click",(e)=>{const a=e.target.closest("a");if(!a)return;e.preventDefault();full.src=a.href;backdrop.classList.add("open")});
+      backdrop.addEventListener("click",()=>{backdrop.classList.remove("open");full.removeAttribute("src")});
+      document.addEventListener("keydown",(e)=>{if(e.key==="Escape") backdrop.click()});
+    }
+
+    listImages().then(render).catch(err=>{
+      mount.innerHTML="<p style='color:#b00;font:14px/1.4 system-ui'>Failed to load. Check API key referrers, folder sharing, and folder ID.</p>";
+      console.error(err);
+    });
+  })();
+  </script>
+</body>
+</html>
