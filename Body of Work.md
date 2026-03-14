@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Everything - All at once - All the time - Right now!
 
 <iframe

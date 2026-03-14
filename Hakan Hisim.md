@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ## **A few words from Hakan Hısım**
 
 The art I create is a reflection of a lifetime of practice, study and distilled experiences. Making art since childhood, my main focus would be on fantastical themes, and countless attempts to capture the essence of my dreams on traditional media. I grew up surrounded by art with parents that instilled in me a deep appreciation for all forms of art. Spending most of my childhood in Australia, and the rest of my youth in Turkey I was fortunate to experience both eastern and western modalities, allowing me to perceive a more balanced view of cultures around the world.

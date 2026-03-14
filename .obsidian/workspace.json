@@ -965,12 +965,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMMERCIAL WORK/Album Covers.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Album Covers"
+              "title": "index"
             }
           }
         ],
@@ -1116,14 +1116,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b08e7edf68a5ebe1",
+  "active": "f4a430168d233f9c",
   "lastOpenFiles": [
+    "Hakan Hisim.md",
+    "favicon.png",
+    "Contact Us.md",
+    "Body of Work.md",
+    "Astral Nexus.md",
+    "ARTWORKS/Activate.md",
+    "COMMERCIAL WORK/Album Covers.md",
     "SOFTWARE/Corel Painter.md",
     "Gallery/gallery.md",
-    "Astral Nexus.md",
     "quartz/static/favicon.png",
     "quartz/static/new sign.png",
-    "Hakan Hisim.md",
     "CODE_OF_CONDUCT.md",
     "index.md",
     "content/publish3.css",
@@ -1154,16 +1159,10 @@
     "docs/plugins/NotFoundPage.md",
     "docs/plugins/Latex.md",
     "docs/plugins/index.md",
-    "docs/plugins/HardLineBreaks.md",
-    "docs/plugins/GitHubFlavoredMarkdown.md",
-    "docs/plugins/Frontmatter.md",
-    "docs/plugins/Favicon.md",
-    "docs/plugins/FolderPage.md",
     "docs/images/social-image-preview-light.png",
     "docs/images/social-image-preview-dark.png",
     "docs/images/quartz-layout-tablet.png",
     "docs/images/quartz-layout-mobile.png",
-    "docs/images/quartz-layout-desktop.png",
     "Untitled.canvas"
   ]
 }

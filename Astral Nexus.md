@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **The external, digital embodiment of the inner realms of visionary artist and alchemist**, [[Hakan Hisim]].
 
 <small>  This website is designed to perform optimally on desktop computers and large screens. Certain juicy features may not be available when accessed from mobile devices. </small>

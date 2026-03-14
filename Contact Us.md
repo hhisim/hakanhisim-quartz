@@ -1,4 +1,6 @@
-
+---
+publish: true
+---
 For general Inquires:
 
 <iframe src="https://8e1m1t9rhb8.typeform.com/to/o8xt1VtP" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
