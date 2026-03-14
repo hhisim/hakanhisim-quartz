@@ -1,0 +1,1165 @@
+{
+  "main": {
+    "id": "b7cfabe0a2687095",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bd843fc8eba94f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c52c9eb3008487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARTWORKS/BioFurnace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BioFurnace"
+            }
+          },
+          {
+            "id": "613c937ef7a0394c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIDEOS/Video Loops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Video Loops"
+            }
+          },
+          {
+            "id": "1dda9941ac3eca84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/Album Covers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Album Covers"
+            }
+          },
+          {
+            "id": "87e0a468e56ec45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Typology - Kali.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Typology - Kali"
+            }
+          },
+          {
+            "id": "3f0542ca1f9f8947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Entheogenic - Enthymesis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entheogenic - Enthymesis"
+            }
+          },
+          {
+            "id": "7f99367cb13708bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Typology - Kali.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Typology - Kali"
+            }
+          },
+          {
+            "id": "fc6eb33898170daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Odiolab - Medieval.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Odiolab - Medieval"
+            }
+          },
+          {
+            "id": "c9613bdc25f4fb22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Greg Hunter - μTantra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Greg Hunter - μTantra"
+            }
+          },
+          {
+            "id": "810a4c31fd733de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Bogtrotter - Catawompus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bogtrotter - Catawompus"
+            }
+          },
+          {
+            "id": "3a380cdfe207e0a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Star Beings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Star Beings"
+            }
+          },
+          {
+            "id": "84ab8d536575e9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Bardo Realm Navigators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Bardo Realm Navigators"
+            }
+          },
+          {
+            "id": "099caaff1fdfbf9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Encapsulate - Fetal Position.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encapsulate - Fetal Position"
+            }
+          },
+          {
+            "id": "74ead856e532eedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Trancendance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Trancendance"
+            }
+          },
+          {
+            "id": "0bd3050d314e30c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Ovnimoon & Ascent - The Key.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ovnimoon & Ascent - The Key"
+            }
+          },
+          {
+            "id": "e7c055a51c0903d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Initialize.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Initialize"
+            }
+          },
+          {
+            "id": "54cdbc4cf54cd311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Entheogenic - Anthropomorphic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entheogenic - Anthropomorphic"
+            }
+          },
+          {
+            "id": "d9ba616f6a156744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Entheogenic - Soma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entheogenic - Soma"
+            }
+          },
+          {
+            "id": "930e48715b5eac99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Lupin - Ritmo Galactico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lupin - Ritmo Galactico"
+            }
+          },
+          {
+            "id": "568d3ba2c7744952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Into This Wired Abyss Vol.3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Into This Wired Abyss Vol.3"
+            }
+          },
+          {
+            "id": "a044f73bd2a258d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Entheogenic - A Singularity Encoded.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entheogenic - A Singularity Encoded"
+            }
+          },
+          {
+            "id": "bc565dcaeb74049e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Healing Lights 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Healing Lights 4"
+            }
+          },
+          {
+            "id": "f61143621fb133b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Trippy Trail -  Zen O​’​Clock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trippy Trail -  Zen O​’​Clock"
+            }
+          },
+          {
+            "id": "1e5c34ab1b5ff7b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Hujaboy - Fractured.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hujaboy - Fractured"
+            }
+          },
+          {
+            "id": "2e677649d47d580f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Synchronize.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Synchronize"
+            }
+          },
+          {
+            "id": "330928f546fd7ae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Manmademan - Scarabeus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manmademan - Scarabeus"
+            }
+          },
+          {
+            "id": "1c706ed88c19df93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Pick - Value of Music.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pick - Value of Music"
+            }
+          },
+          {
+            "id": "7839a307b5a8e4c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Entheogenic - Kailash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entheogenic - Kailash"
+            }
+          },
+          {
+            "id": "93d0ffabb0ef5c31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Cosmosis - RetroFuturism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cosmosis - RetroFuturism"
+            }
+          },
+          {
+            "id": "3fb5263cd01c884c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Hedflux & Grouch - Collaborations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hedflux & Grouch - Collaborations"
+            }
+          },
+          {
+            "id": "89e8129e6ad87881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Infinite Sun - Abnormal Lifeforms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infinite Sun - Abnormal Lifeforms"
+            }
+          },
+          {
+            "id": "ae51327fe749d5c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Afterimage - Earthbound.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Afterimage - Earthbound"
+            }
+          },
+          {
+            "id": "68a43476944db447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Kaimora - Almost.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaimora - Almost"
+            }
+          },
+          {
+            "id": "f6cc1e87ebc6e98b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Arcturus - Templates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arcturus - Templates"
+            }
+          },
+          {
+            "id": "672fe31163f614df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Tekxture - Symphony of Shadows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tekxture - Symphony of Shadows"
+            }
+          },
+          {
+            "id": "512536359dcd691e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Healing Lights 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Healing Lights 3"
+            }
+          },
+          {
+            "id": "24a43efd6c92f270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Bogtrotter - Dark Matter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bogtrotter - Dark Matter"
+            }
+          },
+          {
+            "id": "8c95d42a91d21f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Bogtrotter - Jamais Vu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bogtrotter - Jamais Vu"
+            }
+          },
+          {
+            "id": "f80f70d77d2aaacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Entheogenic - Digital Archives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entheogenic - Digital Archives"
+            }
+          },
+          {
+            "id": "d55cd81f6919ec6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Kaimora - Origins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaimora - Origins"
+            }
+          },
+          {
+            "id": "c44e3e94fbd14786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Half-Life - Middle Mode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Half-Life - Middle Mode"
+            }
+          },
+          {
+            "id": "00d510fd69b11f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Entheogenic - Gaia Sophia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entheogenic - Gaia Sophia"
+            }
+          },
+          {
+            "id": "1c3213b817e340f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Skizologic - Adrenochrome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skizologic - Adrenochrome"
+            }
+          },
+          {
+            "id": "ed1aff877df35cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Entheogenic - Dreamtime Physics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entheogenic - Dreamtime Physics"
+            }
+          },
+          {
+            "id": "665787f0a5786ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Entheogenic - Hypatia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entheogenic - Hypatia"
+            }
+          },
+          {
+            "id": "220f2761a64b6eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Entheogenic - Kykeon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entheogenic - Kykeon"
+            }
+          },
+          {
+            "id": "798395db60bac504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Magikali.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Magikali"
+            }
+          },
+          {
+            "id": "4db3e9b5e34b5cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Hypnotique Harmonique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Hypnotique Harmonique"
+            }
+          },
+          {
+            "id": "5d2dcae8f73195ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Cosmonautica - Infinite Unity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cosmonautica - Infinite Unity"
+            }
+          },
+          {
+            "id": "c2b11f746f299a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Fohat - Ministry of Information Retrieval.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fohat - Ministry of Information Retrieval"
+            }
+          },
+          {
+            "id": "84f66a7cf8c6b0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Deviel - Fractals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deviel - Fractals"
+            }
+          },
+          {
+            "id": "ace9e6c9797fb2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Kaimora - I Understand.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaimora - I Understand"
+            }
+          },
+          {
+            "id": "2161756782c8c4ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Entheogenic - Oddiyana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entheogenic - Oddiyana"
+            }
+          },
+          {
+            "id": "2f3910f53edd7f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Spinal Fusion - Inner Peace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spinal Fusion - Inner Peace"
+            }
+          },
+          {
+            "id": "72937ffde2320708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Cosmonautica - Infinite Unity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cosmonautica - Infinite Unity"
+            }
+          },
+          {
+            "id": "5cc76053d5f55528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Kramavich - Kramanic Frequencies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kramavich - Kramanic Frequencies"
+            }
+          },
+          {
+            "id": "87be9ea10fc76c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Metahexa - Hexspansion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metahexa - Hexspansion"
+            }
+          },
+          {
+            "id": "e71f1fd04e6112a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Nanosphere - Twisted Clarity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nanosphere - Twisted Clarity"
+            }
+          },
+          {
+            "id": "4665c9d232db2cb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Proxius - Make it Possible.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proxius - Make it Possible"
+            }
+          },
+          {
+            "id": "af05c29dee21ec0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Savej - Avatar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Savej - Avatar"
+            }
+          },
+          {
+            "id": "9aab364c72bca17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Healing Lights 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Healing Lights 6"
+            }
+          },
+          {
+            "id": "342801e995e93091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Kaimora - Someone Not Like You.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaimora - Someone Not Like You"
+            }
+          },
+          {
+            "id": "ea0310056d7a6099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Healing Lights 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Healing Lights 6"
+            }
+          },
+          {
+            "id": "369f57e3257b4fa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Kaimora - Strike.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaimora - Strike"
+            }
+          },
+          {
+            "id": "a8f207b1766cc145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/Trinaural - Hemispheria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trinaural - Hemispheria"
+            }
+          },
+          {
+            "id": "0719c2d148309692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMMERCIAL WORK/ALBUM COVERS/VA - Turkish Psychedelica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA - Turkish Psychedelica"
+            }
+          },
+          {
+            "id": "f079433487125f73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIDEOS/Video Loops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Video Loops"
+            }
+          },
+          {
+            "id": "a6bcb7db67879b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARTWORKS/Activate.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Activate"
+            }
+          },
+          {
+            "id": "7805d3ca1353f837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARTWORKS/Mélange.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mélange"
+            }
+          },
+          {
+            "id": "f4a430168d233f9c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 68
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10de5df46fcbaf80",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dbba889cda1dec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b08e7edf68a5ebe1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3ba55cf961dd1ad8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6ab9c1902f8e6447",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d5a16087c1943e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a97fbbdf31aabb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0128e036fee7a558",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9e235c2bc19ac589",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8201324c87d6baad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c50591fff5a81a9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "f4a430168d233f9c",
+  "lastOpenFiles": [
+    "SOFTWARE/Cinema 4D.md",
+    "Astral Nexus.md",
+    "cancel 1.html",
+    "cancel.html",
+    "ARTWORKS/Kingdom Within.md",
+    "COLLECTIONS/Mythos.md",
+    "ARTWORKS/Incubation.md",
+    "COLLECTIONS/Esoterica.md",
+    "ARTWORKS/Trivium Method.md",
+    "COLLECTIONS/Universal Transmissions.md",
+    "Body of Work.md",
+    "Contact Us.md",
+    "Hakan Hisim.md",
+    "favicon.png",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Gallery/gallery.md",
+    "Gallery",
+    "gallery.md",
+    "DETAILS/gallery.md",
+    "ARTWORKS/Translinguistic Imprint.md",
+    "Pasted image 20250924175613.png",
+    "gallery 1.html",
+    "gallery.html",
+    "VIDEOS/Video Art/Alliterative Arcanum.md",
+    "ARTWORKS/Meta-Droid Mantra.md",
+    "IMAGES/Hypatia-web.jpg",
+    "IMAGES/Holographic Projection - WEB.jpg",
+    "IMAGES/HAKAN HISIM - Noetic Vortex - web.jpg",
+    "IMAGES/Golden Grid sıvazı 2.jpg",
+    "IMAGES/HH 2024 copy.png",
+    "IMAGES/11083973_10152791556456616_5533682077178055711_o.jpg",
+    "IMAGES/1053099_10151506558506616_695551382_o.jpg",
+    "IMAGES/271993_10151172494826616_1057298306_o.jpg",
+    "IMAGES/RUBICON/New Text Document.txt",
+    "COLLECTIONS/Rubicon.md",
+    "ARTWORKS/Celestial Cradle.md",
+    "IMAGES/RUBICON/[Extracting...]",
+    "ARTWORKS/The Architects.md",
+    "ARTWORKS/Mélange.md",
+    "ARTWORKS/Tengri.md",
+    "ARTWORKS/The Beacon.md",
+    "ARTWORKS/Activate.md",
+    "ARTWORKS/Under The Dome.md",
+    "ARTWORKS/Trinary Transcendence.md"
+  ]
+}

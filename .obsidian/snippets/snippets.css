@@ -1,0 +1,9 @@
+@media screen and (max-width: 1000px) {
+  .publish-renderer > .markdown-preview-view > .markdown-preview-sizer {
+    margin-right: 0;
+  }
+  .published-container.has-outline .site-body-right-column,
+  .published-container.has-graph .site-body-right-column {
+    display: block;
+  }
+}

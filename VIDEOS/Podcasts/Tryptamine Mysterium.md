@@ -1,0 +1,10 @@
+###  **Tryptamine Mysterium - An Interview with Hakan Hisim - Visionary Digital Artist**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4F62dLTb8ns?si=7tNwPmrEkeKh9_wL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Mirrored from the Innerverse Podcast:    [![](https://www.gstatic.com/youtube/img/watch/yt_favicon.png) • Tryptamine Mysterium - An Interview w...](https://www.youtube.com/watch?v=E-SOtnkmH2o&t=0s)   Get ready to shred the veil between this world and the infinite hereafter in this incredibly psychedelic episode with the master of digi-mystical creativity, Hakan Hisim. This is a wild ride through explorations of consciousness realms unknown, and an awe-inspiring romp through examining the fractal mirror that is the living cosmos. Subscribe to InnerVerse on iTunes! [https://itunes.apple.com/us/podcast/i...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3ZYZmdvSkhpX0k3WkxrRFpGeGRwV1BYeXBKd3xBQ3Jtc0tuM2RPVk1SWnoydjlhUlp0TUFGU19GNkF3OGxWSHVBbmd0MWNoR1VYNEYtQkxVWE5nV2xxc2Zsc1lNcUNpNUJZVUZmVXB6Y2tleU1DYTk5c0t5bXV2ZUJZX1lCTGFhT3BQOE0ycTlfNWswVkhUbnBqSQ&q=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2Finnerverse%2Fid1066918535%3Fmt%3D2&v=4F62dLTb8ns) Episode Notes & Links - [https://www.innerversepodcast.com/sea...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdtNzM5Mm94emx0ODExX0oxTHZiVEtHWEhwQXxBQ3Jtc0tsZEdUc3p5WWFFdER1R2xrWlN3b3F5dHVOV0lyUEh0eGhtYjJ6MHdDLUlwd3FlN0VPWDI4YlA1SVF4NXNFRlloMEUwVnIxd20tSkF4cFZyRDV3QkJTS2RueGJWV2lQMWRuelJ2OV8yTlpVTkNNa3ZMNA&q=https%3A%2F%2Fwww.innerversepodcast.com%2Fseason-4%2Fhakan-hisim-tryptamine-mysterium&v=4F62dLTb8ns)
+
+**Connections:**
+[[Translating Xenoglossolalia]]
+[[Universal Transmissions From The Undivided Self]]
+[[XA076 - The Universal Transmissions Codex with Hakan Hisim]]

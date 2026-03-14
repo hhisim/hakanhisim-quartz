@@ -1,0 +1,5 @@
+|                      |                         |                      |
+| -------------------- | ----------------------- | -------------------- |
+| [![[video1.jpg]]](<Animated NFT's> "Animated NFT's") | [![[video2.jpg]]](<Codex Videos> "Codex Videos") | [![[video3.jpg]]](<Digital Assets> "Digital Assets") |
+| [![[video4.jpg]]](<Meditation Videos> "Meditation Videos") | [![[video5.jpg]]](<Podcasts> "Podcasts") | [![[video6.jpg]]](<Process Videos> "Process Videos") |
+| [![[video7.jpg]]](<Video Art> "Video Art") | [![[video8.jpg]]](<Video Loops> "Video Loops") |  |
