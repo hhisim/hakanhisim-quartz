@@ -8,7 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "The Art of Hakan Hisim",
+    pageTitle: "The Art of Hakan HISIM",
+    baseUrl: "vault.hakanhisim.net"
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
