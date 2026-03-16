@@ -299,3 +299,28 @@ button:hover { background: linear-gradient(90deg, purple, cyan); }
 @media (max-width: 1000px) {
   .graph-outer { margin-top: 12px; }
 }
+
+/* Fix image grid tables */
+table img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  margin: 0;
+}
+
+/* Fix three column layout */
+#quartz-body {
+  display: grid;
+  grid-template-columns: 300px 1fr 300px;
+}
+
+/* Fix logo */
+h1.page-title a, .page-title a {
+  background-image: url('/static/logo.png') !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  display: block !important;
+  width: 220px !important;
+  height: 80px !important;
+  text-indent: -9999px !important;
+}
