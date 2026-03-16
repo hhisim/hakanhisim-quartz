@@ -1,6 +1,5 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-
 /**
  * Quartz 4 Configuration
  *
@@ -9,7 +8,6 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "The Art of Hakan HISIM",
-    baseUrl: "vault.hakanhisim.net"
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -17,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "vault.hakanhisim.net",
+    baseUrl: "hakanhisim-quartz.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian", "DETAILS", "PLACES", "Gallery", "content", "Welcome to Quartz 4", "quartz"],
     defaultDateType: "modified",
     theme: {
@@ -41,15 +39,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
+          light: "#100e17",
+          lightgray: "#191621",
           gray: "#646464",
-          darkgray: "#d4d4d4",
+          darkgray: "#bebebe",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          secondary: "#0fb6d6",
+          tertiary: "#f4569d",
+          highlight: "rgba(14, 210, 247, 0.15)",
+          textHighlight: "rgba(244, 86, 157, 0.25)",
         },
       },
     },
@@ -94,5 +92,4 @@ const config: QuartzConfig = {
     ],
   },
 }
-
 export default config
