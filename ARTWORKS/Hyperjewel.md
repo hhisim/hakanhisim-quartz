@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Hyperjewel - web.jpg]]
@@ -26,6 +29,7 @@ May 27,  ‎2013
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[jewel1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/hyperjewel-artwork-tapestry>) |
+
 
 
 

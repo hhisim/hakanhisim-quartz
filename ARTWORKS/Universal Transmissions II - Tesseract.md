@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[MANUSCRIPT 4 web.jpg]]
@@ -44,3 +47,4 @@ July 9, ‎2014
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[tess1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/universal-transmissions-ii-tesseract-limited-edition-metallic-archival-print>) |
+

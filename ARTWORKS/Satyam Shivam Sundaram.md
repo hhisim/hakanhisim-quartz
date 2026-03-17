@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Satyam Shivam Sundarm FINAL - web.jpg]]
@@ -51,4 +54,5 @@ November 14, ‎2022
 | [![sun1.jpg](sun1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/copy-of-the-spice-must-flow-stretched-canvas-print-limited-edition-of-50-prints) | [![sun2.jpg](sun2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/satyam-shivam-sundaram-kimono-robe) | [![sun3.jpg](sun3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/satyam-shivam-sundaram-micro-fleece-cloak) |
 |---|---|---|
 | [![sun4.jpg](sun4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/satyam-shivam-sundaram-tapestry) | [![sun5.jpg](sun5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/satyam-shivam-sundram-draped-kimono) | |
+
 

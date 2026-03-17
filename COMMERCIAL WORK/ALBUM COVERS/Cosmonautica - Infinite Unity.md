@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Cosmonautica - Infinite Unity**
 
 ![[IU 9.jpg]]

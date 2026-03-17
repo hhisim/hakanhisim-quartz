@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Entheogenic - A Singularity Encoded**
 
 ![[752F6D25-B4E2-CF4C-A496-9C8FE81C4715.jpg]]

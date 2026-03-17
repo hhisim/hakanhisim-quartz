@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Divergent Periphery - web.jpg]]

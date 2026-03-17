@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Cerebral Moksha 2.jpg]]
@@ -30,3 +33,4 @@ July 28, ‎2015
 | [![moksha1.jpg](moksha1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/cerebral-moksha-artwork-tapestry) | [![moksha2.jpg](moksha2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/cerebral-moksha-mouse-pad) | [![moksha3.jpg](moksha3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/cerebral-moksha-pillow) |
 | --- | --- | --- |
 | [![moksha4.jpg](moksha4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/neon-lycra-tapestry-backdrop-cerebral-moksha-100-cm) | [![moksha5.jpg](moksha5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-lycra-tapestry-backdrop-cerebral-moksha) | |
+

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Divine-Yantra---web.jpg]]
@@ -57,3 +60,4 @@ February 3, ‎2014
 | [![yan1.jpg](yan1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/divine-yantra-artwork-tapestry)                          | [![yan2.jpg](yan2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/divine-yantra-mouse-pad) | [![yan3.jpg](yan3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-divine-yantra-72-x-72-cm) |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | [![yan4.jpg](yan4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-divine-yantra-75-x-75-cm) |                                                                                                        |                                                                                                                                        |
+

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 ![[Aham Brahmasmi copy.jpg]]
 ## Narrative:
@@ -22,6 +25,7 @@ August ‎11, ‎2016
 
 | ![AHAM1.jpg](DETAILS/AHAM01.jpg) | ![AHAM2.jpg](DETAILS/AHAM02.jpg) |
 | -------------------------------- | -------------------------------- |
+
 
 
 

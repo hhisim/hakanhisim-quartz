@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ## Rubicon
 Through the Rubicon, new art for a new world. Art made after 2022
 

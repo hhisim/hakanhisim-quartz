@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Entheogenic - Gaia Sophia**
 ![[DE6C18A8-F109-FB3C-D239-BF398CEB1634.jpg]]
 ## Narrative:

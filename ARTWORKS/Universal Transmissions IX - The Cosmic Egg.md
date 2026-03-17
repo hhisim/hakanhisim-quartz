@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]], Turkey
 
 ![[Cosmic Egg Final - web.jpg]]
@@ -50,3 +53,4 @@ December 29, ‎2018
 | [![cosmi1](cosmi1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/cosmic-egg-artwork-tapestry) | [![cosmi2](cosmi2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/cosmic-egg-bedding-set) | [![cosmi3](cosmi3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/cosmic-egg-micro-fleece-blanket) |
 |---|---|---|
 | [![cosmi4](cosmi4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/cosmic-egg-mouse-pad) | | |
+

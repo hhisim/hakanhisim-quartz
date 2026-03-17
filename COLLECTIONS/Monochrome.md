@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ## Monochrome
 Sometimes things are better in black and white
 

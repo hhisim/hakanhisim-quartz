@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **VA - Into This Wired Abyss Vol.3**
 
 ![[565E7DC2-9981-4D46-104B-E6E6E9B16979.jpg]]

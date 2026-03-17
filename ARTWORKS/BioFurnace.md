@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[BioFurnace 2.jpg]]
@@ -29,4 +32,5 @@ April 25, ‎2014
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | [![[biof4.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/biofurnace-sports-bra)                  | [![[biof5.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/bio-furnace-mens-shorts)                               | [![[biof6.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/bio-furnace-micro-fleece-cloak) |
 | [![[biof7.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-bio-furnace) | [![[biof8.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-bio-furnace-48-x-48-cm) |                                                                                                        |
+
 

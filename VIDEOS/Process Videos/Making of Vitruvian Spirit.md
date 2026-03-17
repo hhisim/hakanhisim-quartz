@@ -1,3 +1,6 @@
+---
+publish: true
+---
  ### **Making of Vitruvian Spirit**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JWDHHdX6Wpw?si=YNdz5czHzYiRu06D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -26,4 +29,5 @@ Music: Radioactive Sandwich - Immortals Made of Stone Nystagmus - Ananda The Sha
 [[The Vitruvian Spirit NFT]]
 [[The Universal Transmissions Codex Vol.1 - The Unwritten Book that cannot be read.]]
 [[Universal Transmissions]]
+
 

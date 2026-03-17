@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
   
 ‎![[Renouncing Redemption MMXXIII web.jpg]]
@@ -33,4 +36,5 @@ November 28, ‎2023
 # Procure:
 | [![red1.jpg](red1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/renouncing-redemption-artwork-tapestry) | [![red2.jpg](red2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/renouncing-redemption-mouse-mat) |
 | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+
 

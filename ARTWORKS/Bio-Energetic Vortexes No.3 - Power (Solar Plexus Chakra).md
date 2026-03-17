@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alaçatı]], Turkey
 
 ![[Universal Transmissions - Energy Vortices 3.jpg]]
@@ -48,3 +51,4 @@ November 1, ‎2017
 | [![[pwr7.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/manipura-mouse-pad-solar-plexus-chakra) | [![[pwr8.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/manipura-rug-solar-plexus-chakra) | [![[pwr9.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/manipura-sarong-solar-plexus-chakra) |
 | [![[pwr10.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/manipura-solar-plexus-chakra-beach-blanket-1) | [![[pwr11.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/manipura-solar-plexus-chakra-hooded-blanket) | [![[pwr12.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/manipura-solar-plexus-chakra-micro-fleece-cloak) |
 | [![[pwr13.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/manipura-solar-plexus-chakra-sports-bra) | [![[pwr14.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/manipura-solar-plexus-chakra-wrap-skirt) | |
+

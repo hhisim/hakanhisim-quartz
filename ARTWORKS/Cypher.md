@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Cypher - web.jpg]]
@@ -26,3 +29,4 @@ June 18,  ‎2016
 |                                                                                                  |
 | ------------------------------------------------------------------------------------------------ |
 | [![[cyph.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/cypher-artwork-tapestry>) |
+

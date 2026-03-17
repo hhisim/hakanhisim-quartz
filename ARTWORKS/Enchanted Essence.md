@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
  ![[Enchanted Essence - WEB.jpg]]
 ## Narrative:
@@ -29,3 +32,4 @@ May 12, ‎2023
 | [![ese1.jpg](ese1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/enchanted-essence-artwork-tapestry) | [![ese2.jpg](ese2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/enchanted-essence-bedding-set) | [![ese3.jpg](ese3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/enchanted-essence-kimono-robe) |
 | --- | --- | --- |
 | [![ese4.jpg](ese4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/enchanted-essence-microfleece-cloak) | [![ese5.jpg](ese5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/enchanted-essence-unisex-cotton-t-shirt) |  |
+

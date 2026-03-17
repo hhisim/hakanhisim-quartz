@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### Pick - Value of Music
 ![[0933871D-5BE2-2446-8C1A-B84CDCD56850.jpg]]
 ## Narrative:
@@ -15,3 +18,4 @@ Massive sound, clean compositions, grooves surrounding by sparkling dynamics and
 **Style:** Progressive
 **Year:** 2016
 **Procure:** https://picksound.bandcamp.com/album/pick-value-of-music-album-2o16
+

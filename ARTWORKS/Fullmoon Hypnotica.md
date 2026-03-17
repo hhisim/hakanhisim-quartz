@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alaçatı]], Turkey
   
 ![[Fullmoon Hypnotica.jpg]]
@@ -30,3 +33,4 @@ November ‎2, ‎2017
 | [![full1.jpg](full1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/fluro-neon-lycra-tapestry-of-fullmoon-hypnotica-uv-active-lime) | [![full2.jpg](full2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/fluro-neon-lycra-tapestry-of-fullmoon-hypnotica-uv-active-orange) | [![full3.jpg](full3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/fullmoon-hypnotica-artwork-tapestry) |
 | --- | --- | --- |
 | [![full4.jpg](full4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/fullmoon-hypnotica-puzzle) | [![full5.jpg](full5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/fullmoon-hypnotica-mouse-mat) | [![full6.jpg](full6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/fullmoon-hypnotica-mouse-pad) |
+

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 ### **Video Art**
 
 Music Videos, Short Films, Animations, Experimental Video... weird stuff, that moves

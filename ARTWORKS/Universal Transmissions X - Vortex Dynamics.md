@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Vortex Dynamics - FINAL.jpg]]
@@ -40,3 +43,4 @@ November 16, ‎2019
 # Procure:
 | [![utx1](utx1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-vortex-dynamics) | [![utx2](utx2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/vortex-dynamics-artwork-tapestry) | [![utx3](utx3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/xl-lycra-tapestry-backdrop-of-vortex-dynamics) |
 |---|---|---|
+

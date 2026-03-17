@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 ![[IMPRINT.jpg]]
 ## Narrative:

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Eternal Flame web 2.jpg]]
@@ -27,3 +30,4 @@ February 22, ‎2016
 | [![sol1.jpg](sol1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-sol-invictus) | [![sol2.jpg](sol2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sol-invictus-artwork-tapestry) | [![sol3.jpg](sol3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sol-invictus-micro-fleece-blanket) |
 |---|---|---|
 | [![sol4.jpg](sol4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sol-invictus-puzzle) | [![sol5.jpg](sol5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sol-invictus-wrap-skirt) |
+

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[MANUSCRIPT 6 black.jpg]]
@@ -27,5 +30,6 @@ May 18, ‎2014
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[higher1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/universal-transmissions-v-higher-access-limited-edition-metallic-archival-print>) |
+
 
 

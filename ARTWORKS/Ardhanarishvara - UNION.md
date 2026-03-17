@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 ![[Ardhanarishvara - UNION - HAKAN HISIM.jpg]]
 ## Narrative:
@@ -48,5 +51,6 @@ All in all it was a fun experience. I am very interested in your thoughts, ideas
 | --------------------------------- | --------------------------------- | --------------------------------- |
 | ![UNION4.jpg](DETAILS/UNION4.jpg) | ![UNION5.jpg](DETAILS/UNION5.jpg) | ![UNION6.jpg](DETAILS/UNION6.jpg) |
 | ![UNION7.jpg](DETAILS/UNION7.jpg) | ![UNION8.jpg](DETAILS/UNION8.jpg) |                                   |
+
 
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Subatomic Neuronaut - web.jpg]]
@@ -28,4 +31,5 @@ August 1, ‎2013
 | [![suba1.jpg](suba1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/discounted-paper-print-of-rubix-harlequin) | [![suba2.jpg](suba2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/subatomic-neuronaut-artwork-tapestry) | [![suba3.jpg](suba3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-subatomic-neuronaut-64-x-64-cm) |
 |---|---|---|
 | [![suba4.jpg](suba4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-subatomic-neuronaut-66-x-66-cm) | | |
+
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Symbiotic Synesthesia web.jpg]]
@@ -27,3 +30,4 @@ March 20, ‎2023
 | ![Symbiotic 7](details/Symbiotic7.jpg) | ![Symbiotic 8](details/Symbiotic8.jpg) | ![Symbiotic 9](details/Symbiotic9.jpg) |
 | ![Symbiotic 10](details/Symbiotic10.jpg) | ![Symbiotic 11](details/Symbiotic11.jpg) | ![Symbiotic 12](details/Symbiotic12.jpg) |
 | ![Symbiotic 13](details/Symbiotic13.jpg) | ![Symbiotic 14](details/Symbiotic14.jpg) | ![Symbiotic 15](details/Symbiotic15.jpg) |
+

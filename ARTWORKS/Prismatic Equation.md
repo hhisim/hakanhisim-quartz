@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Translinguistic Equation UV - final - web.jpg]]
@@ -28,3 +31,4 @@ March 12, ‎2020
 | --- | --- | --- |
 | [![tra4.jpg](tra4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/prismatic-equation-freeform-blanket) | [![tra5.jpg](tra5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/prismatic-equation-mouse-pad) | [![tra6.jpg](tra6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/translinguistic-equation-prismatic-artwork-tapestry) |
 | [![tra7.jpg](tra7.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/translinguistic-equation-prismatic-artwork-tapestry-1) | [![tra8.jpg](tra8.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/translinguistic-equation-unisex-t-shirt-prismatic-version-short-sleeve-unisex-t-shirt-large-sizes) | [![tra9.jpg](tra9.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/translinguistic-equation-unisex-t-shirt-prismatic) |
+

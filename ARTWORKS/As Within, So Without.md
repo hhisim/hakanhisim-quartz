@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]] Turkey
 ![[As-Within-So-Without-FINAL-newsletter.jpg]]
 ## Narrative:
@@ -27,3 +30,4 @@ Collaboration with **Salvia Droid**
 | [![[as1.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/as-within-so-without-artwork-tapestry) | [![[as2.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-as-within-so-without-1) | [![[as3.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-lycra-tapestry-backdrop-as-within-so-without) |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | [![[as4.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/womens-t-shirt-as-within-so-without)   | | [![[as5.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/as-within-stretched-canvas-print-copy)   |                                                                                                                        |                                                                                                                                   |
+

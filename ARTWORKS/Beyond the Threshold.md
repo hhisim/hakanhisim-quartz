@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Beyond the Threshold  -FINAL - WEB.jpg]]
@@ -32,3 +35,4 @@ October 18, ‎2023
 | ![BEYOND1.jpg](DETAILS/BEYOND1.jpg) | ![BEYOND2.jpg](DETAILS/BEYOND2.jpg) | ![BEYOND3.jpg](DETAILS/BEYOND3.jpg) |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- |
 | ![BEYOND4.jpg](DETAILS/BEYOND4.jpg) | ![BEYOND5.jpg](DETAILS/BEYOND5.jpg) | ![BEYOND6.jpg](DETAILS/BEYOND6.jpg) |
+

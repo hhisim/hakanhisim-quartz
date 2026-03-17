@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[DNA-YANTRA.jpg]]
@@ -22,3 +25,4 @@ February 3, ‎2013
 
 | ![DNA1.jpg](DETAILS/DNA1.jpg) | ![DNA2.jpg](DETAILS/DNA2.jpg) | ![DNA3.jpg](DETAILS/DNA3.jpg) |
 | ----------------------------- | ----------------------------- | ----------------------------- |
+

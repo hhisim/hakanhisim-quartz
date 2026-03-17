@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[Higher Order - web.jpg]]
@@ -27,3 +30,4 @@ August 28,  ‎2013
 | [![hor1.jpg](hor1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/higher-order-artwork-tapestry) | [![hor2.jpg](hor2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/higher-order-bedding-set) | [![hor3.jpg](hor3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/higher-order-mouse-pad) |
 | --- | --- | --- |
 | [![hor4.jpg](hor4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-higher-order) | | |
+

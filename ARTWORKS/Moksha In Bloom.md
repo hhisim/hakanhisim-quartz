@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[Moksha-in-Bloom.jpg]]
@@ -27,3 +30,4 @@ One of my first tryptamine based mandalas
 # Procure:
 | [![mok1.jpg](mok1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/moksha-in-bloom-artwork-tapestry) | [![mok2.jpg](mok2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/tapestry-backdrop-of-moksha-in-bloom) |
 | --- | --- |
+

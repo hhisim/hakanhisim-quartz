@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]], Turkey
   
 ![[Gaia's Lullaby.jpg]]
@@ -31,3 +34,4 @@ June 4, ‎2019
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[lull1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/copy-of-lycra-tapestry-backdrop-of-gaias-lullaby>) |
+

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Triton's-Compass---web.jpg]]
@@ -29,3 +32,4 @@ A popular portal to many homes around the world
 | [![trit1.jpg](trit1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/tritons-compass-stretched-canvas-print) | [![trit2.jpg](trit2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/fluro-neon-lycra-tapestry-of-tritons-compass-uv-active-lime) | [![trit3.jpg](trit3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/fluro-neon-lycra-tapestry-of-tritons-compass-uv-active) |
 |---|---|---|
 | [![trit4.jpg](trit4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/tritons-compass-artwork-tapestry) | [![trit5.jpg](trit5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/tritons-compass-drawstring-bag) | |
+

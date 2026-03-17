@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Deviel - Fractals**
 
 ![[Fractals Album cover WEB.jpg]]

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Morningstar Merkaba.jpg]]
@@ -31,3 +34,4 @@ August 28,  ‎2013
 | [![mor1.jpg](mor1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/fluro-neon-lycra-tapestry-of-morningstar-uv-active-1) | [![mor2.jpg](mor2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/morningstar-artwork-tapestry) | [![mor3.jpg](mor3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/morningstar-bedding-set) |
 | --- | --- | --- |
 | [![mor4.jpg](mor4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/morningstar-cloak) | [![mor5.jpg](mor5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/morningstar-mouse-pad) | [![mor6.jpg](mor6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/morningstar-sneakers) |
+

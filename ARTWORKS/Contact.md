@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Contact.jpg]]
@@ -32,3 +35,4 @@ May 20, ‎2013
 
 | [![cont1.jpg](cont1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/contact-artwork-tapestry) | [![cont2.jpg](cont2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-contact-33-x-50-cm) |
 | --- | --- |
+

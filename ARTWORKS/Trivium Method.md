@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]], Turkey
 
 ![[Trivium-method---web.jpg]]
@@ -31,6 +34,7 @@ April 22, ‎2019
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[triv1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/trivium-method-bedding-set>) |
+
 
 
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Bionic Efflorescence.jpg]]
@@ -26,3 +29,4 @@ August 21, ‎2014
 
 | [![[bion1.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/bionic-efflorescence-artwork-tapestry) | [![[bion2.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/bionic-efflorescence-pillow) | |
 | --- | --- | --- |
+

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Kaimora - Origins
 
 ![[Kaimora Alphabet 3 copy 2.jpg]]

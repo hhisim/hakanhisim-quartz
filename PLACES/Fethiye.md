@@ -1,5 +1,0 @@
- Fethiye has become our home, and we've been here for over 4 years. It feels like lifetimes have unfolded within these years. It's where I experienced profound Samadhi experiences and where our family faced significant challenges that nearly tore us apart. It was during this time that I began to detach from my ego identity as a visionary artist.
-
-In Fethiye, I created many seminal artworks, including the birth of the Vitruvian spirit and the completion of the Universal Transmissions codex. I also designed all my clothing and patterns during this period. In just 4 years, an abundance of value and original content was created here.
-
-Yet, all of this pales in comparison to the imminent arrival of our daughter, who will be born in Fethiye. This place holds a sacred and consecrated significance for us—a truly special land where our lives have been profoundly shaped and enriched.

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Odiolab - Medieval**
 ![[FFCE970E-61C1-EE6F-A36D-58AAA206FAF8.jpg]]
 ![[ODIOLAB - Back.jpg]]

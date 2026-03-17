@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Kaimora - Someone Not Like You
 
 ![[Someone Not Like You.jpg]]

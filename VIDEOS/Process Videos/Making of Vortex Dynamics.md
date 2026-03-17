@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Making of Vortex Dynamics**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6LZ1m_29LeM?si=4qhZ8-JA3bIXO_Kh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -11,3 +14,4 @@ Audio: Bahramji & Mashti - Being With You
 [[Universal Transmissions X - Vortex Dynamics]]
 [[Universal Transmissions]]
 [[The Universal Transmissions Codex Vol.1 - The Unwritten Book that cannot be read.]]
+

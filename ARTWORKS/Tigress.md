@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[TIGER WEB.jpg]]
@@ -22,3 +25,4 @@ July 10, ‎2014
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[tig1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/tigress-artwork-tapestry-1>) |
+

@@ -1,3 +1,6 @@
+---
+publish: true
+---
   Incendia is indeed one of those unique and boutique programs.
 
 Arguably one of the very first 3D fractal generators, perhaps even  [[Apophysis]], it captured my attention back in 2009. Despite being somewhat of a pain to use, it possessed the ability to generate incredibly unique fractal geometry with volumetric lighting.

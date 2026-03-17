@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[HAKAN HISIM - OUT OF THE WOODWORK WEB.jpg]]
@@ -29,3 +32,4 @@ February 22, ‎2016
 | [![wood1.jpg](wood1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-of-out-of-the-woodwork) | [![wood2.jpg](wood2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/out-of-the-woodwork-artwork-tapestry) | [![wood3.jpg](wood3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/out-of-the-woodwork-mouse-mat) |
 | --- | --- | --- |
 | [![wood4.jpg](wood4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/out-of-the-woodwork-puzzle) | | |
+

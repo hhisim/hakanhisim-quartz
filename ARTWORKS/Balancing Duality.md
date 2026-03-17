@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alaçatı]], Turkey
 
 ![[Dancing Dualities FINAL WEB 2.jpg]]
@@ -43,3 +46,4 @@ April 23, ‎2018
 
 | [![[dancing1.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/dancing-dualities-artwork-tapestry) |     |     |
 | ------------------------------------------------------------------------------------------------------------- | --- | --- |
+

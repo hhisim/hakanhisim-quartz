@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Meditation Videos**
 Implementing some of my animations as a guide to sound therapy and different frequency modalities
 

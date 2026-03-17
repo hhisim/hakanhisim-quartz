@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Hyper-dimensional Migration NFT Collection - DMT Portal - Tryptamine Neural Network Portal**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jX9R995aGPk?si=kwYtXN_G_dVyXLWO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

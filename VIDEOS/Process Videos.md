@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Process Videos**
 
 Some glimpses into my won unique process and workflow for creating almost everything in this database. If your interested in a deeper dive jump into the first link here for a comprehensive masterclass.

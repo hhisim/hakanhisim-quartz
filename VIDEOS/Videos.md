@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # **Videos**
 
 Every thing I have created, related to Video, Animation, and Film

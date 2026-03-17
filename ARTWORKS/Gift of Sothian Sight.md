@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
   
 ![[Gift of Sothian Sight - web.jpg]]
@@ -30,3 +33,4 @@ June 16, ‎2020
 
 | [![soth1.jpg](soth1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/gift-of-sothian-sight-artwork-tapestry) | [![soth2.jpg](soth2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-gift-of-sothian-sight) | |
 | --- | --- | --- |
+

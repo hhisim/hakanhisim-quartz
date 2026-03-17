@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Metahexa - Hexspansion**
 ![[Metahexa - Hexspansion - web 2.jpg]]
 ## Narrative:

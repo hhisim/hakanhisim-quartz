@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Beacon - web.jpg]]
@@ -23,3 +26,4 @@ January 2, ‎2014
 
 | ![tb1](details/tb1.jpg) | ![tb2](details/tb2.jpg) | ![tb3](details/tb3.jpg) |
 |--------------------------|--------------------------|--------------------------|
+

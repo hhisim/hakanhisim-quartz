@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Mayan-Soul.jpg]]
@@ -26,3 +29,4 @@ October 18, ‎2012
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[may1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/mayan-soul-artwork-tapestry>) |
+

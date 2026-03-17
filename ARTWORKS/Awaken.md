@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 ![[Awaken-web.jpg]]
 ## Narrative:
@@ -24,3 +27,4 @@ Having some fun
 
 | [![[awaken11.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/awaken-mouse-mat) |
 | ------------------------------------------------------------------------------------------- |
+

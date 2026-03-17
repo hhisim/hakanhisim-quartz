@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Sacred Symbiosis - FINAL 2017 - WEB.jpg]]
@@ -102,3 +105,4 @@ Canvas and Paper prints as well as fabric tapestries are available to purchase h
 | [![sym4.jpg](sym4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sacred-symbiosis-ii-puzzle) | [![sym5.jpg](sym5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sacred-symbiosis-mouse-mat) |
 | [Image 1](https://the-art-of-hakan-hisim.myshopify.com/products/satin-tapestry-backdrop-of-sacred-symbiosis) | [Image 2](https://the-art-of-hakan-hisim.myshopify.com/products/massive-satin-tapestry-backdrop-of-sacred-symbiosis) | [Image 3](https://the-art-of-hakan-hisim.myshopify.com/products/sacred-symbiosis-i-puzzle) |
 | [Image 4](https://the-art-of-hakan-hisim.myshopify.com/products/sacred-symbiosis-ii-puzzle) | [Image 5](https://the-art-of-hakan-hisim.myshopify.com/products/sacred-symbiosis-mouse-mat) |
+

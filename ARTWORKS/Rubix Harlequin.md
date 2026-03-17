@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[HAKAN HISIM - RUBIX HARLEQUIN - web.jpg]]
@@ -29,4 +32,5 @@ Connected to [[Subatomic Neuronaut]]
 # Procure:
 | [![rbx1.jpg](rbx1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/rubix-harlequin-tapestry)    | [![rbx2.jpg](rbx2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-rubix-harlequin-66-x-66-cm)                            |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ###  **Tryptamine Mysterium - An Interview with Hakan Hisim - Visionary Digital Artist**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4F62dLTb8ns?si=7tNwPmrEkeKh9_wL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

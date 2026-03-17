@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Healing Lights 3**
 ![[C49C0338-372B-EF4C-4446-02750E1E6A81.jpg]]
 ![[HL3 - Front copy.jpg]]

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Encapsulate - Fetal Position**
 
 ![[09F4B062-DCF7-AA90-232C-65D3BC181B09.jpg]]

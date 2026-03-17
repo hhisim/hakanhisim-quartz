@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Entheogenic - Oddiyana**
 
 ![[Entheogenic - Oddiyana 2024 - FINAL - web.jpg]]

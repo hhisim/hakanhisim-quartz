@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
  ![[HAKAN HISIM - Primordial Playroom web.jpg]]
 ## Narrative:
@@ -37,3 +40,4 @@ November 6, ‎2013
 | [![play1.jpg](play1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/primordial-playroom-artwork-tapestry) | [![play2.jpg](play2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/primordial-playroom-hooded-blanket) | [![play3.jpg](play3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/primordial-playroom-mouse-pad) |
 | --- | --- | --- |
 | [![play4.jpg](play4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-primordial-playroom) | | |
+

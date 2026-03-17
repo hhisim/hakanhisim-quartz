@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Under the Dome - WEB.jpg]]
@@ -26,4 +29,5 @@ April 4, ‎2013
 | [![und1](und1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/under-the-dome-artwork-tapestry) | [![und2](und2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/under-the-dome-mouse-mat) | [![und3](und3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/under-the-dome-puzzle) |
 |---|---|---|
 | [![und4](und4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-under-the-dome-97-x-56-cm) | | |
+
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[DROP web.jpg]]
@@ -29,3 +32,4 @@ August 20 ‎2015
 | --- | --- | --- |
 | [![drp4.jpg](drp4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/drop-kimono) | [![drp5.jpg](drp5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/drop-mens-shorts) | [![drp6.jpg](drp6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/drop-sarong) |
 | [![drp7.jpg](drp7.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-of-drop) |  |  |
+

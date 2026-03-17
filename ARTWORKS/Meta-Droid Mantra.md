@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 ![[Meta-Droid Mantra - web.jpg]]
 ## Narrative:

@@ -1,11 +1,6 @@
 /* =====================================================
-   HAKAN HISIM - ASTRAL NEXUS
+   HAKAN HISIM — ASTRAL NEXUS
    Quartz 4 Custom Stylesheet
-   Based on Obsidianite theme by Benny Guo
-   ===================================================== */
-
-/* =====================================================
-   ROOT VARIABLES
    ===================================================== */
 
 :root {
@@ -33,11 +28,11 @@
 }
 
 /* =====================================================
-   BODY & SCROLLBAR
+   BODY
    ===================================================== */
 
 body {
-  font-family: var(--default-font);
+  font-family: var(--default-font) !important;
   font-size: 18px;
   font-weight: 450;
 }
@@ -50,19 +45,31 @@ body {
 ::-webkit-scrollbar-track { background: var(--bg-secondary); }
 
 /* =====================================================
-   LOGO - correct filename is "new sign.png"
+   LOGO
    ===================================================== */
 
 .page-title a {
-  background-image: url('/static/new sign.png');
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: left center;
+  background-image: url('/static/new sign.png') !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  background-position: left center !important;
   display: block;
   width: 220px;
   height: 80px;
   text-indent: -9999px;
   overflow: hidden;
+}
+
+/* =====================================================
+   FIX: sidebar/explorer link background override
+   (must NOT override .page-title a logo above)
+   ===================================================== */
+
+.left a:not(.page-title a),
+.right a,
+.sidebar a:not(.page-title a) {
+  background-image: none !important;
+  background: transparent !important;
 }
 
 /* =====================================================
@@ -94,29 +101,39 @@ h5 { font-size: 18px; color: #cbdbe5; font-family: var(--default-font); font-wei
 h6 { font-size: 18px; color: #cbdbe5; font-family: var(--default-font); font-weight: 600; }
 
 /* =====================================================
-   LINKS
+   LINKS — underline only, no sliding background
    ===================================================== */
 
 a { text-decoration: none !important; color: var(--darkgray); }
-a:hover { color: var(--text-accent); text-decoration: none !important; }
+a:hover { color: var(--text-accent); }
 
 a.internal {
-  background-image: linear-gradient(to bottom, var(--bg-accent-55) 0%, var(--bg-accent-55) 100%);
-  background-position: 0 100%;
-  background-repeat: repeat-x;
-  background-size: 5px 5px;
-  transition: background 350ms ease-in-out;
+  color: var(--text-accent);
+  background: none !important;
+  background-image: none !important;
+  text-decoration: underline !important;
+  text-decoration-color: rgba(14, 210, 247, 0.35) !important;
+  text-underline-offset: 3px;
+  transition: color 200ms ease, text-decoration-color 200ms ease;
 }
-a.internal:hover { color: #fff; background-size: 4px 50px; }
+a.internal:hover {
+  color: #fff;
+  text-decoration-color: var(--text-accent) !important;
+}
 
 a.external {
-  background-image: linear-gradient(to bottom, var(--bg-sub-accent-55) 0%, var(--bg-sub-accent-55) 100%);
-  background-position: 0 100%;
-  background-repeat: repeat-x;
-  background-size: 5px 5px;
-  transition: background 350ms ease-in-out;
+  color: var(--darkgray);
+  background: none !important;
+  background-image: none !important;
+  text-decoration: underline !important;
+  text-decoration-color: rgba(244, 86, 157, 0.35) !important;
+  text-underline-offset: 3px;
+  transition: color 200ms ease, text-decoration-color 200ms ease;
 }
-a.external:hover { color: #fff; background-size: 4px 50px; }
+a.external:hover {
+  color: #fff;
+  text-decoration-color: var(--text-sub-accent) !important;
+}
 
 /* =====================================================
    BOLD & ITALIC
@@ -132,7 +149,7 @@ strong {
 em { color: #bb9af7 !important; }
 
 /* =====================================================
-   BLOCKQUOTE
+   BLOCKQUOTE — no pseudo-element lines
    ===================================================== */
 
 blockquote {
@@ -150,30 +167,20 @@ blockquote {
   background: linear-gradient(135deg, rgba(32, 28, 41, 0.45), #100e17);
 }
 
-blockquote::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0;
-  height: 2px; width: 60%;
-  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), transparent);
-}
-
+blockquote::before,
 blockquote::after {
-  content: '';
-  position: absolute;
-  bottom: 0; left: 0;
-  height: 2px; width: 25%;
-  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), transparent);
+  display: none !important;
+  content: none !important;
 }
 
 /* =====================================================
-   HR - Rainbow
+   HR — faded blue centered gradient
    ===================================================== */
 
 hr {
   border: none;
-  height: 3px;
-  background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+  height: 1px;
+  background: linear-gradient(to right, transparent, rgba(14, 210, 247, 0.45), transparent);
   margin: 3em 0;
 }
 
@@ -197,8 +204,9 @@ pre code { background: none; padding: 0; }
    ===================================================== */
 
 a.tag {
-  background-color: rgba(14, 210, 247, 0.15);
-  color: var(--text-accent);
+  background-color: rgba(14, 210, 247, 0.15) !important;
+  background-image: none !important;
+  color: var(--text-accent) !important;
   border-radius: 4px;
   padding: 2px 8px;
   font-style: italic;
@@ -212,16 +220,15 @@ a.tag:hover {
 }
 
 /* =====================================================
-   TABLES - transparent, images sized correctly
+   TABLES — transparent, images fill cells
    ===================================================== */
 
 table { border-collapse: collapse; border: none; background: transparent; }
 th { background-color: transparent; border: none !important; }
 td { border: none !important; background-color: transparent !important; padding: 4px; }
 tr:nth-child(even) { background-color: transparent; }
-tr:nth-child(odd) { background-color: transparent; }
+tr:nth-child(odd)  { background-color: transparent; }
 
-/* Image grid - match original 3-column layout */
 table img {
   width: 100%;
   height: auto;
@@ -254,7 +261,7 @@ video { border-radius: 30px; }
 .video-container iframe { width: 100%; height: 100%; }
 
 /* =====================================================
-   EXPLORER SIDEBAR - style but don't break layout
+   EXPLORER SIDEBAR
    ===================================================== */
 
 .folder-title {
@@ -264,10 +271,9 @@ video { border-radius: 30px; }
 }
 
 /* =====================================================
-   BUTTONS - only style content buttons, NOT UI buttons
+   BUTTONS — content only, not UI buttons
    ===================================================== */
 
-/* Only style buttons inside article content */
 article button, .markdown-content button {
   background: linear-gradient(90deg, violet, purple);
   color: #fff;
@@ -290,18 +296,6 @@ article button:hover, .markdown-content button:hover {
 
 .graph-outer { margin-top: 12px; }
 
-/* =====================================================
-   MOBILE
-   ===================================================== */
-
 @media (max-width: 1000px) {
   .graph-outer { margin-top: 12px; }
-}
-
-blockquote::before, blockquote::after { display: none; }
-
-/* Fix: sidebar link background-image breaking column layout */
-.left a:not(.page-title a), .right a, .sidebar a {
-  background-image: none !important;
-  background: none !important;
 }

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Ascending Entities Pack**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UtcostrZLog?si=ma4Ypha1yw0WWrfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -23,3 +26,4 @@ Ascending Entities contains a mix of 10 loops, 3 of them 4K depicting various pe
 [[Cosmic Ascension Loop]]
 [[Cosmic Ascension NFT]]
 [[The Cosmic Dance of Shiva]]
+

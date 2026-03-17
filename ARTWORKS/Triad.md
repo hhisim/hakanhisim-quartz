@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Sacred triangle.jpg]]
@@ -42,3 +45,4 @@ December 3,  ‎2013
 # Procure:
 | [![tri1.jpg](tri1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/triad-artwork-tapestry) | [![tri2.jpg](tri2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/triad-mouse-pad) |
 |---|---|
+

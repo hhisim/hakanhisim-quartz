@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]], Turkey
 
 ![[Sylvan Perception - web.jpg]]
@@ -33,5 +36,6 @@ May 31, ‎2018
 | [![syl4.jpg](syl4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sylvan-perception-bedding-set) | [![syl5.jpg](syl5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sylvan-perception-hooded-blanket) | [![syl6.jpg](syl6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sylvan-perception-mouse-pad) |
 | [![syl7.jpg](syl7.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sylvan-perception-unisex-t-shirt) | [![syl8.jpg](syl8.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sylvan-perception-unisex-t-shirt-1) | [![syl9.jpg](syl9.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-lycra-tapestry-backdrop-sylvan-perception) |
 | [![syl10.jpg](syl10.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/womens-racerback-tank) | | |
+
 
 

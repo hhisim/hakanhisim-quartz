@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[MANUSCRIPT 6 - Vehicular Dynamics print - web.jpg]]

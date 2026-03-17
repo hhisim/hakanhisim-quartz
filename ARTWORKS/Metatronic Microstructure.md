@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[final small.jpg]]
@@ -37,3 +40,4 @@ January 2, ‎2024
 | --------------------------------- | --------------------------------- | --------------------------------- |
 | ![micro4.jpg](DETAILS/micro4.jpg) | ![micro5.jpg](DETAILS/micro5.jpg) | ![micro6.jpg](DETAILS/micro6.jpg) |
 | ![micro7.jpg](DETAILS/micro7.jpg) |                                   |                                   |
+

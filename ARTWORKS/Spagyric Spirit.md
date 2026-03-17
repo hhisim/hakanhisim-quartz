@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Spagyric Spirit - web.jpg]]
@@ -31,3 +34,4 @@ September 25, ‎2016
 |---|---|---|
 | [![spg4.jpg](spg4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/spagyric-spirit-unisex-t-shirt) | [![spg5.jpg](spg5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/spagyric-spirit-womens-racerback-tank) | [![spg6.jpg](spg6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/spagyric-spirit-womens-relaxed-t-shirt) |
 | [![spg7.jpg](spg7.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-spagyric-spirit-66-x-66-cm) | |
+

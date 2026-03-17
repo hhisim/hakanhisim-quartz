@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
   
 ![[Incubation.jpg]]

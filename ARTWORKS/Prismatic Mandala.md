@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Prismatic Mandala HAKAN HISIM - WEB small .jpg]]

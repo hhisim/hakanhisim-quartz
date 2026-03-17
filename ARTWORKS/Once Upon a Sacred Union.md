@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
   
 ![[once upon a sacred union - web.jpg]]
@@ -30,3 +33,4 @@ October 27, ‎2023
 | --------------------------- | --------------------------- | --------------------------- |
 | ![Su4.jpg](details/su4.jpg) | ![Su5.jpg](details/su5.jpg) | ![Su6.jpg](details/su6.jpg) |
 | ![Su7.jpg](details/su7.jpg) | ![Su8.jpg](details/su8.jpg) | ![Su9.jpg](details/su9.jpg) |
+

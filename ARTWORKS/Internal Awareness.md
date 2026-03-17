@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alaçatı]], Turkey
   
 ![[Internal Awareness - web.jpg]]
@@ -34,3 +37,4 @@ October 29, ‎2017
 
 | [![int1.jpg](int1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/internal-awareness-artwork-tapestry) | [![int2.jpg](int2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-internal-awareness) | |
 | --- | --- | --- |
+

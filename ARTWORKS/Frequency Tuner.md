@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Frequency Tuner web.jpg]]
@@ -22,3 +25,4 @@ July 12, ‎2014
 | ![ft1.jpg](DETAILS/ft1.jpg) | ![ft2.jpg](DETAILS/ft2.jpg) | ![ft3.jpg](DETAILS/ft3.jpg) |
 | --------------------------- | --------------------------- | --------------------------- |
 | ![ft4.jpg](DETAILS/ft4.jpg) | ![ft5.jpg](DETAILS/ft5.jpg) | ![ft6.jpg](DETAILS/ft6.jpg) |
+

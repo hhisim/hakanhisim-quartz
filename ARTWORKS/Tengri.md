@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Tengri.jpg]]
@@ -26,3 +29,4 @@ March 13, ‎2014
 # Procure:
 | [![teng1.jpg](teng1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/neon-uv-active-lycra-tapestry-backdrop-of-tengri) | [![teng2.jpg](teng2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/tengri-artwork-tapestry) |
 |---|---|
+

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Inward Covergence - Web (2).jpg]]
@@ -44,3 +47,4 @@ July 22, ‎2017
 
 | [![inw1.jpg](inw1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/inward-convergence-artwork-tapestry) | [![inw2.jpg](inw2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/inward-convergence-mouse-mat) | [![inw3.jpg](inw3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-of-inward-convergence) |
 | --- | --- | --- |
+

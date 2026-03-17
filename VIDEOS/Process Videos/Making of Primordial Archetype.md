@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Making of Primordial Archetype**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hfHFgPkQQa4?si=98_GvS0I0OsXxPW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -19,4 +22,5 @@ Music By Nirmal
 [[Jungle Juice]]
 [[Deceptive Mystical Temptation]]
 [[Making of Jungle Juice]]
+
 

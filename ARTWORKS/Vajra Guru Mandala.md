@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Vajra-Guru-Mandala-web.jpg]]
@@ -27,3 +30,4 @@ March 16, ‎2015
 # Procure:
 | [![vaj1](vaj1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/fluro-neon-lycra-tapestry-of-vajra-mandala-uv-active) | [![vaj2](vaj2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/fluro-neon-lycra-tapestry-of-vajra-mandala-uv-active-orange) | [![vaj3](vaj3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-of-vajra-mandala) |
 |---|---|---|
+

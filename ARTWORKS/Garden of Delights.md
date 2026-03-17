@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[HAKAN HISIM - Garden of Delights - web.jpg]]
@@ -28,3 +31,4 @@ Inspired by George Haeckel, Hieronymus Bosch, and Psilocybe Cyanescens
 | [![del1.jpg](del1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/garden-of-delights-artwork-tapestry) | [![del2.jpg](del2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/garden-of-delights-mouse-pad) | [![del3.jpg](del3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/garden-of-delights-puzzle) |
 | --- | --- | --- |
 | [![del4.jpg](del4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-of-garden-of-delights) | [![del5.jpg](del5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/veil-tapestry-backdrop-of-garden-of-delights) | |
+

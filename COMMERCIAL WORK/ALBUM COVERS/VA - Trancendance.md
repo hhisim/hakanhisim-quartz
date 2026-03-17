@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **VA - Trancendance**
 
 ![[B8B08FBA-1C37-65AE-CD71-E1D91D3DFC3C.jpg]]

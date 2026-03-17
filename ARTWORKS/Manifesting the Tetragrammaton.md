@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Manifesting the Tetragramatton.jpg]]
@@ -31,3 +34,4 @@ August 26, ‎2014
 | [![box1.jpg](box1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-pandoras-box) | [![box2.jpg](box2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/pandoras-box-artwork-tapestry) | [![box3.jpg](box3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/pandoras-box-bedding-set) |
 | --- | --- | --- |
 | [![box4.jpg](box4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/pandoras-box-mouse-pad) | | |
+

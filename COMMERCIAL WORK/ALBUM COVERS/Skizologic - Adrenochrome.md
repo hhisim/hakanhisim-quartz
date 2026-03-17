@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Skizologic - Adrenochrome**
 
 ![[E796C438-B6F3-D09C-A5C0-E5D0265C13FE.jpg]]

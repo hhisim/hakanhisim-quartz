@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Presence of the Other - WEB.jpg]]
@@ -42,6 +45,7 @@ October 12, ‎2013
 | [![prim19.jpg](prim19.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/primordial-presence-puzzle) | [![prim20.jpg](prim20.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/primordial-presence-rug) | [![prim21.jpg](prim21.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/primordial-presence-shower-curtain) |
 | [![prim22.jpg](prim22.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/primordial-presence-sneakers) | [![prim23.jpg](prim23.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/primordial-presence-sneakers-1) | [![prim24.jpg](prim24.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/primordial-presence-stair-stickers) |
 | [![prim25.jpg](prim25.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/primordial-presence-unisex-apron) | [![prim26.jpg](prim26.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/primordial-presence-wrap-skirt-1) | |
+
 
 
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Powerful Yantra OM Meditation - 963Hz Solfeggio Pineal Gland Activation - Kundalini Activation DMT**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/25_0rI_G7x4?si=RDElIA42YVA4xIVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -28,3 +31,4 @@ This video is for personal use only, [[Contact Us]] to license this video or any
 [[Divine Yantra]]
 [[Divine Yantra Loop Pack]]
 [[Divine Yantra Animated NFT]]
+

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Universal Transmissions - Energy Vortices 2.jpg]]
@@ -40,3 +43,4 @@ August 8, ‎2017
 | [![[sac7.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/svadhisthana-area-rug-sacral-chakra) | [![[sac8.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/svadhisthana-doormat-sacral-chakra) | [![[sac9.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/svadhisthana-mouse-mat-sacral-chakra) |
 | [![[sac10.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/svadhisthana-mouse-pad-sacral-chakra) | [![[sac11.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/svadhisthana-sarong-sacral-chakra) | [![[sac12.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/manipura-solar-plexus-chakra-beach-blanket) |
 | [![[sac13.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/svadhisthana-sacral-chakra-micro-fleece-cloak) | [![[sac14.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/svadhisthana-sacral-chakra-sports-bra) | [![[sac15.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/svadhisthana-sacral-chakra-wrap-skirt) |
+

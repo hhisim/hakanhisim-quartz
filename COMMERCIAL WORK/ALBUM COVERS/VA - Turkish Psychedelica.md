@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **VA - Turkish Psychedelica**
 ![[Turkish Psychedelica half copy.jpg]]
 ## Narrative:

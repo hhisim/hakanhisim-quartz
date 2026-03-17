@@ -1,4 +1,5 @@
 ---
+publish: true
 name: Bug report
 about: Something about Quartz isn't working the way you expect
 title: ""
@@ -38,3 +39,4 @@ You can help speed up fixing the problem by either
 
 **Additional context**
 Add any other context about the problem here.
+

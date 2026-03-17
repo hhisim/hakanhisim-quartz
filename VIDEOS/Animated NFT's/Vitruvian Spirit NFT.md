@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **The Vitruvian Spirit NFT - A token and passkey to hold...forever**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojZWaazLDzA?si=wPlxR6bfUY5F7-Su" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -20,6 +23,7 @@ Teleport your lovely digital presence over to www.vitruvianspirit.com to find ou
 [[Universal Transmissions XI - Vitruvian Spirit - Seeding the new renaissance]]
 [[Universal Transmissions]]
 [[Making of Vitruvian Spirit]]
+
 
 
 

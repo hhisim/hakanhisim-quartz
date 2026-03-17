@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Background Asset Pack - Psychedelic Art Graphic Assets**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hGRS1WQHMmQ?si=e7q-Ya6_aqxf2CGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -17,3 +20,4 @@ Ideal support / Inspiration for aspiring psychedelic artists and digital art stu
 
 **Connections:**
 [[Tryptamine Backgrounds Pack]]
+

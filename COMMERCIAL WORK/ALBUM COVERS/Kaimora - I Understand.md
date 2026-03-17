@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Kaimora - I Understand**
 
 ![[I Undertsnd.jpg]]

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[[Fethiye]], Turkey
 ![[ARCHWEB.jpg]]
 ## Narrative:
@@ -27,3 +30,4 @@ December 25, ‎2024
 
 | [![archcanvas.jpg](archcanvas.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/the-architects-stretched-canvas-print-1) |     |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --- |
+

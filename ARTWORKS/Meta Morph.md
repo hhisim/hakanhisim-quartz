@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Metamorph 2017 - web.jpg]]
@@ -31,4 +34,5 @@ February 11, ‎2017
 | [![met1.jpg](met1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/home-decor-artwork-tapestry-tapestryartwork-tapestry) | [![met2.jpg](met2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/meta-morph-bedding-set) | [![met3.jpg](met3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/meta-morph-mouse-pad) |
 | --- | --- | --- |
 | [![met4.jpg](met4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/meta-morph-puzzle-1) | | |
+
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
   
 ![[I will Not Fear.jpg]]
@@ -34,3 +37,4 @@ January 29,  ‎2021
 | [![will1.jpg](will1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/limited-edition-archival-stretched-canvas-print-of-i-will-not-fear) | [![will2.jpg](will2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/i-will-not-fear-micro-fleece-cloak-1) | [![will3.jpg](will3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/i-will-not-fear-zip-up-hoodie) |
 | --- | --- | --- |
 | [![will4.jpg](will4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/limited-edition-archival-print-of-i-will-not-fear) |  |  |
+

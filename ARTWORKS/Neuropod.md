@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[Neuropod---WEB-2.jpg]]

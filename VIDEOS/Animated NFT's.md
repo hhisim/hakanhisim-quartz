@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Animated NFT's**
 
 Some are sold and some are still available, [Make Offer](mailto:hhisim@hotmail.com?subject=Subject&body=Body) if you would like to own any that are left.

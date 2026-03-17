@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Album Covers**
 
 I have been fortunate enough to work with so many great artists and musicians over the years. Below is a collection of the album covers I have made that I still have a record of.

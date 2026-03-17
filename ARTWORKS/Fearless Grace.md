@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Fearless Grace  - WEB.jpg]]
@@ -35,4 +38,5 @@ February 21, ‎2023
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[fearg1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/3-piece-canvas-print-fearless-grace-framed-ready-to-hang-3x8x18>) |
+
 

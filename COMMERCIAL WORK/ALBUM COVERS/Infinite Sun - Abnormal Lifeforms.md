@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### Infinite Sun - Abnormal Lifeforms
 ![[front cover 3 copy.jpg]]
 ![[Abnormal Lifeforms Vinyl - FFONT f'nal copy.jpg]]

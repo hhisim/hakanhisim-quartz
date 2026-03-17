@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]], Turkey
   
 ![[Phantasmagoria---web.jpg]]
@@ -29,3 +32,4 @@ January 17, ‎2019
 | [![gor1.jpg](gor1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-phantasmagoria) | [![gor2.jpg](gor2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/phantasmagoria-artwork-tapestry) | [![gor3.jpg](gor3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/phantasmagoria-hooded-blanket) |
 | --- | --- | --- |
 | [![gor4.jpg](gor4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/phantasmagoria-unisex-t-shirt) | | |
+

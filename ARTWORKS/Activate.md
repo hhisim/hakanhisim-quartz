@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 ![[Activate WEB.jpg]]
 ## Narrative:
@@ -31,5 +34,6 @@ December ‎13, ‎2012
 
 | [![[activate1.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/activate-artwork-tapestry) | [![[activate2.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/rise-activate-unisex-t-shirt) |
 | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+
 
 

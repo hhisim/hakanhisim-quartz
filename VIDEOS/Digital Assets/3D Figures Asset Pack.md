@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **3D Figures Asset Pack - Psychedelic Art Graphic Assets**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Lp-FsXH6Jg?si=rqL41UmiTlS53E8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

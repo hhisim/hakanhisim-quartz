@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Morningstar Merkaba Animated NFT**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/03_Gp3WPmMU?si=mjGORVlDCjGau9w-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -12,4 +15,5 @@ Animated [[Sacred Geometry]]Series // Morningstar // Merkaba with integrated Met
 [[Sacred Seed Animated NFT]]
 [[Sacred Geometry Pack]]
 [[Powerful Theta Waves Healing]]
+
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
   
 ![[Utterly Flibberblitzed (There's No Place Like Home) - Web.jpg]]
@@ -32,3 +35,4 @@ September 28, ‎2023
 | [![bli1](bli1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/blitzed-board-shorts) | [![bli2](bli2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/blitzed-fashion-drop-armhole-hoodie) | [![bli3](bli3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/blitzed-fashion-ziphoodie-jogger) |
 |---|---|---|
 | [![bli4](bli4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/blitzed-micro-fleece-cloak) | | |
+

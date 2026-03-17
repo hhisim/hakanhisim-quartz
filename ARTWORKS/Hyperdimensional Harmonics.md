@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Hyperdimensional Harmonics - web.jpg]]
@@ -31,3 +34,4 @@ March 30, ‎2020
 | --- | --- | --- |
 | [![hyper4.jpg](hyper4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/hyperdimensional-harmonics-artwork-tapestry-1) | [![hyper5.jpg](hyper5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/hyperdimensional-harmonics-neck-gaiter) | [![hyper6.jpg](hyper6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/hyperdimensional-harmonics-pillow) |
 | [![hyper7.jpg](hyper7.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/hyperdimensional-harmonics-unisex-t-shirt) | [![hyper8.jpg](hyper8.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-hyperdimensional-harmonics) | [![hyper9.jpg](hyper9.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-lycra-tapestry-backdrop-of-hyperdimensional-harmonics) |
+

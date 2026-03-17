@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Entheogenic - Anthropomorphic**
 
 ![[95D5BDDE-17E7-6D4A-86C8-6ED58C716B3F.jpg]]

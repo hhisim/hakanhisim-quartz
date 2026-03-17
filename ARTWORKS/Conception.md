@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 ![[Incubation - web.jpg]]
 ## Narrative:

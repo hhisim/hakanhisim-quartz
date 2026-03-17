@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ## Geometrica
 Mandalas, mandalic structures, Impossible Geometries and more
 

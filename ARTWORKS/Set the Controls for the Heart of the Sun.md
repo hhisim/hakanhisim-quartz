@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Set the Controls for the Heart of the Soul - web.jpg]]
@@ -20,3 +23,4 @@ February 24, ‎2016
 
 | ![Set-the-Controls-for-the-Heart-of-the-Sun---Detail-01](details/Set-the-Controls-for-the-Heart-of-the-Sun---Detail-01.jpg) | ![Set-the-Controls-for-the-Heart-of-the-Sun---Detail-02](details/Set-the-Controls-for-the-Heart-of-the-Sun---Detail-02.jpg) | ![Set-the-Controls-for-the-Heart-of-the-Sun---Detail-03](details/Set-the-Controls-for-the-Heart-of-the-Sun---Detail-03.jpg) |
 |---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+

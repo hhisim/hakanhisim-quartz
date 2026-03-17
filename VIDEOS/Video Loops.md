@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 ### **Video Loops**
 
 Created during my active period of VJ'ing and Projection Mapping at festivals around the world (Most of them) 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 #### **Vehicular Dynamics NFT
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cn4PVPq5DAY?si=a4BXceIpKdVuJQeZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -24,3 +27,4 @@ From the Azoth in which the supernal world was created, the Adam Kadmon took sub
 [[Universal Transmissions VI - Vehicular Dynamics]]
 [[Universal Transmissions]]
 [[Vehicular Dynamics Loop Pack]]
+

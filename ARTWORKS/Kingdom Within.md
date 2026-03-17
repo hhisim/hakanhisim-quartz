@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[The Kingdom Within (WEB).jpg]]
@@ -43,3 +46,4 @@ April ‎19, ‎2013
 
 | [![king1.jpg](king1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/kingdom-within-artwork-tapestry) | [![king2.jpg](king2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/kingdom-within-mouse-pad) | [![king3.jpg](king3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/kingdom-within-puzzle) |
 | --- | --- | --- |
+

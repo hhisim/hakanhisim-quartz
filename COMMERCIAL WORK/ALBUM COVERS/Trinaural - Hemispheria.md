@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Trinaural - Hemispheria**
 
 ![[TRINAURAL - HEMISPHERIA - FRONT.jpg]]

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Reversible Ratio - HAKAN HISIM - web.jpg]]
@@ -26,3 +29,4 @@ November 30,  ‎2020
 # Procure:
 | [![rev1.jpg](rev1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-vortex-dynamics-1)                      | [![rev2.jpg](rev2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/reversible-ratio-premium-woodcut-jigsaw-puzzle)                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+

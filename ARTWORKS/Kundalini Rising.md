@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[Kundalini Rising - WEB.jpg]]
@@ -33,3 +36,4 @@ April 30, ‎2013
 | --- | --- | --- |
 | [![kun4.jpg](kun4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/kundalini-rising-micro-fleece-cloak) | [![kun5.jpg](kun5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/kundalini-rising-micro-fleece-zip-up-hoodie) | [![kun6.jpg](kun6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/kundalini-rising-mouse-pad) |
 | [![kun7.jpg](kun7.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/puzzle-accessory-puzzle) | [![kun8.jpg](kun8.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/kundalini-rising-stair-stickers) | [![kun9.jpg](kun9.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-kundalini-rising-142-x-142-cm) |
+

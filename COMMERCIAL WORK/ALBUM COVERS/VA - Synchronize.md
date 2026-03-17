@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **VA - Synchronize**
 
 ![[VA - Synchronize  - fınal - web.jpg]]
@@ -14,3 +17,4 @@ Independent label founded by Trailoka to promote cutting edge psychedelic trance
 **Style:** Darkpsy, Forest
 **Year:** 2016
 **Procure:** https://hypnotiquerecordings.bandcamp.com/album/va-synchronize-compiled-by-trailoka
+

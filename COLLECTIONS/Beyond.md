@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ## Beyond
 Tryptamine realms and captured memories of liminal spaces beyond space and time
 

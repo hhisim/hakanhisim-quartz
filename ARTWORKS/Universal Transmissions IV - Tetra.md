@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[MANUSCRIPT 3 web.jpg]]
@@ -26,6 +29,7 @@ July 8, ‎2014
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[tetraa1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/universal-transmissions-iv-tetra-limited-edition-metallic-archival-print>) |
+
 
 
 

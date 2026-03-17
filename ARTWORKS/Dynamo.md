@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Dynamo - web.jpg]]
@@ -31,3 +34,4 @@ October 4,  ‎2016
 | [![dyno1.jpg](dyno1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/dynamo-artwork-tapestry)                          | [![dyno2.jpg](dyno2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/large-lycra-tapestry-backdrop-of-dynamo) | [![dyno3.jpg](dyno3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-dynamo-68-x-68-cm) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | [![dyno4.jpg](dyno4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-dynamo-77-x-77-cm) |                                                                                                                          |                                                                                                                                   |
+

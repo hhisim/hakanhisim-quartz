@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Soulforge - web.jpg]]
@@ -29,3 +32,4 @@ September 11, ‎2015
 # Procure:
 | [![soul1.jpg](soul1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/soulforge-artwork-tapestry) | [![soul2.jpg](soul2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/soulforge-micro-fleece-blanket) |
 |---|---|
+

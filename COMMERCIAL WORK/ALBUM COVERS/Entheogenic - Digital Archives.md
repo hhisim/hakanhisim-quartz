@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Entheogenic - Digital Archives**
 
 ![[a1000506904_16.jpg]]
@@ -35,3 +38,4 @@ Digital Reprints is here to quench the thirst of collectors. All 3 albums ([[Ent
 **Style:** Psybient, Ambient, Downtempo
 **Year:** 2017
 **Procure:** https://digitalreprints.bandcamp.com/album/digital-archives
+

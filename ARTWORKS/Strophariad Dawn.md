@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Close Encounter - web.jpg]]
@@ -23,3 +26,4 @@ January 21, ‎2023
 
 | ![dawn1](details/dawn1.jpg) | ![dawn2](details/dawn2.jpg) |
 |---------------------------|---------------------------|
+

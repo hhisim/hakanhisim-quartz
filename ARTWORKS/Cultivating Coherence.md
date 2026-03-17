@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Cultivating Coherence - web.jpg]]
@@ -22,3 +25,4 @@ May 18, ‎2023
 | ![COHERENCE1.jpg](DETAILS/COHERENCE1.jpg) | ![COHERENCE2.jpg](DETAILS/COHERENCE2.jpg) | ![COHERENCE3.jpg](DETAILS/COHERENCE3.jpg) |
 | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
 | ![COHERENCE4.jpg](DETAILS/COHERENCE4.jpg) | ![COHERENCE5.jpg](DETAILS/COHERENCE5.jpg) | ![COHERENCE6.jpg](DETAILS/COHERENCE6.jpg) |
+

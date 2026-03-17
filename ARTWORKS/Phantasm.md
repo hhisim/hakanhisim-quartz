@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[Phantasm WEB.jpg]]
@@ -63,6 +66,7 @@ That is another story for another day, but I promise I will get back to it somed
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[pha1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/phantasm-artwork-tapestry>) |
+
 
 
 

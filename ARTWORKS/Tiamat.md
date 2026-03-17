@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alaçatı]], Turkey
 
 ![[35734846_10155603623706616_1799108396671041536_n.jpg]]
@@ -30,3 +33,4 @@ June 18, ‎2018
 # Procure:
 | [![tia1.jpg](tia1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/tiamat-artwork-tapestry) | [![tia2.jpg](tia2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/tiamat-mouse-pad) |  |
 |---|---|---|
+

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ## Universal Transmissions
 Embracing the notion of transcending syntax and linguistics, UT delves into the playful exploration of language as both a construct and a medium for transcendence.
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **The Making of Spirit**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VybQIwW3bU0?si=wl7I6_FBlO6A4RF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -30,4 +33,5 @@ In my experience and later more profound research, I found that the "seat of Kun
 [[The Universal Transmissions Codex Vol.1 - The Unwritten Book that cannot be read.]]
 
 Music: Tool - Pneuma
+
 

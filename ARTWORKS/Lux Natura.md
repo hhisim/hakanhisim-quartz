@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[Lux Natura.jpg]]
@@ -20,3 +23,4 @@ January 2, ‎2016
 # Procure:
 | [![luxn1.jpg](luxn1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lux-natura-mouse-mat) | [![luxn2.jpg](luxn2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-lycra-tapestry-backdrop-lux-natura) | |
 | --- | --- | --- |
+

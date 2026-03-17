@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ## Twilight Transmissions
 Another Spin off sub series of [[Universal Transmissions]]. Prismatic renditions of the classic style
 

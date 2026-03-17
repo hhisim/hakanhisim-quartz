@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]], Turkey
 
 ![[Venusian-Cross.jpg]]
@@ -31,3 +34,4 @@ April 11, ‎2019
 |---|---|---|
 | [![cross4](cross4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/venusian-cross-artwork-tapestry) | [![cross5](cross5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/venusian-cross-mouse-pad) | [![cross6](cross6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/venusian-cross-neck-gaiter) |
 | [![cross7](cross7.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/venusian-cross-pillow) | | |
+

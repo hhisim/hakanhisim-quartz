@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[Feeling Very Weird - print web.jpg]]
@@ -23,3 +26,4 @@ December 4,  ‎2013
 | ----------------------------- | ----------------------------- | ----------------------------- |
 | ![fvw4.jpg](DETAILS/fvw4.jpg) | ![fvw5.jpg](DETAILS/fvw5.jpg) | ![fvw6.jpg](DETAILS/fvw6.jpg) |
 | ![fvw7.jpg](DETAILS/fvw7.jpg) | ![fvw8.jpg](DETAILS/fvw8.jpg) | ![fvw9.jpg](DETAILS/fvw9.jpg) |
+

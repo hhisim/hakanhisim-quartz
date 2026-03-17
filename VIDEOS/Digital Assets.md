@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Digital Assets**
 
 Ideal support / Inspiration for aspiring psychedelic artists and digital art students alike!

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[Holographic Projection - WEB.jpg]]
@@ -34,3 +37,4 @@ March 31, ‎2013
 
 | [![hmnd1.jpg](hmnd1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/holographic-mind-artwork-tapestry) | [![hmnd2.jpg](hmnd2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/holographic-mind-mouse-pad) | |
 | --- | --- | --- |
+

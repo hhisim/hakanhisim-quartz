@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Cosmosis - RetroFuturism**
 
 ![[a3252154924_65.jpg]]

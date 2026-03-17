@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 ![[Archaic Opulence web.jpg]]
 ## Narrative:
@@ -30,3 +33,4 @@ October 9, ‎2015
 
 | [![[opulence1.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/arcane-opulence-artwork-tapestry) | [![[opulence2.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/arcane-opulence-mouse-pad) | [![[opulence3.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-of-arcane-opulence) |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+

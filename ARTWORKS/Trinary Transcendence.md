@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Trinary Transcendance FINAL - WEB.jpg]]
@@ -39,3 +42,4 @@ August 30, ‎2020
 | [![tit4.jpg](tit4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/trinary-transcendence-artwork-tapestry) | [![tit5.jpg](tit5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/trinary-transcendence-artwork-tapestry-1) | [![tit6.jpg](tit6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/trinary-transcendence-bedding-set) |
 | [![tit7.jpg](tit7.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/trinary-transcendence-mouse-pad) | [![tit8.jpg](tit8.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/trinary-transcendence-short-sleeve-unisex-t-shirt) | [![tit9.jpg](tit9.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/trinary-transcendence-unisex-organic-cotton-t-shirt-1) |
 | [![tit10.jpg](tit10.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-lycra-tapestry-backdrop-of-trinary-transcendence) | |
+

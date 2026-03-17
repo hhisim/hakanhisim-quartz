@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Typology - Kali**
 
 ![[001EB442-DC3C-9488-0DB7-F3520C0E3BC3.jpg]]

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ## Mythos
 Epic narratives of mythic proportions
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Entheogenic - Kailash**
 ![[a2183575329_65.jpg]]
 ## Narrative:
@@ -24,3 +27,4 @@
 **Style:** Psybient, Ambient, Downtempo
 **Year:** 2023
 **Procure:** https://entheogenic-usr.bandcamp.com/album/kailash
+

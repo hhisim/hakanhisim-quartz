@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Serpentine Apotheosis WEB.jpg]]
@@ -60,3 +63,4 @@ When I had completed the image I felt I needed to share it, and created a Facebo
 | [![serp1.jpg](serp1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/serpentine-apotheosis-dancing-shiva-bedding-set) | [![serp2.jpg](serp2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/serpentine-apotheosis-dancing-shiva-micro-fleece-blanket) | [![serp3.jpg](serp3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/serpentine-apotheosis-artwork-tapestry) |
 |---|---|---|
 | [![serp4.jpg](serp4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/serpentine-apotheosis-mouse-mat) | [![serp5.jpg](serp5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/serpentine-apotheosis-puzzle) | [![serp6.jpg](serp6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/xl-lycra-tapestry-backdrop-of-serpentine-apotheosis) |
+

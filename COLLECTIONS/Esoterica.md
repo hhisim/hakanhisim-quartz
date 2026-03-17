@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 ## Esoterica
 From the "Myst"  
 Unocculted Art

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]], Turkey
 
 ![[Prey-for-You---Web.jpg]]
@@ -37,3 +40,4 @@ January 28, ‎2019
 # Procure:
 | [![pfy1.jpg](pfy1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-prey-for-you) | [![pfy2.jpg](pfy2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/prey-for-you-artwork-tapestry) |
 |---|---|
+

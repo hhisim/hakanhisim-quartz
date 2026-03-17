@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]], Turkey
 ![[Coincidentia Oppositorum web.jpg]]
 ## Narrative:
@@ -32,4 +35,5 @@ March 13, ‎2018
 | [![unio4.jpg](unio4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/union-of-opposites-hooded-blanket) | [![unio5.jpg](unio5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/union-of-opposites-mens-shorts) | [![unio6.jpg](unio6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/union-of-opposites-micro-fleece-blanket) |
 | [![unio7.jpg](unio7.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/union-of-opposites-micro-fleece-cloak) | [![unio8.jpg](unio8.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/union-of-opposites-premium-woodcut-puzzle) | [![unio9.jpg](unio9.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/union-of-opposites-rug) |
 | [![unio10.jpg](unio10.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/union-of-opposites-sarong) | [![unio11.jpg](unio11.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/union-of-opposites-shower-curtain) | [![unio12.jpg](unio12.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/union-of-opposites-zip-up-hoodie) |
+
 

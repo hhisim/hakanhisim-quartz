@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[The Fractal Wave - WEB.jpg]]
@@ -31,4 +34,5 @@ August 21, ‎2013
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[wave1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/fractal-wave-puzzle>) |
+
 

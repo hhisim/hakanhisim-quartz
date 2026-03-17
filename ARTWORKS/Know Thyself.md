@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Know Thyself  - FINAL web.jpg]]
@@ -45,5 +48,6 @@ February 11, ‎2023
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[know1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/canvas-print-know-thyself-framed-ready-to-hang-24x18>) |
+
 
 

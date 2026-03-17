@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]], Turkey
   
 ![[Starseer.jpg]]
@@ -27,3 +30,4 @@ March 28, ‎2019
 | [![seer1.jpg](seer1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/starseer-artwork-tapestry) | [![seer2.jpg](seer2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/starseer-mouse-pad) | [![seer3.jpg](seer3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/starseer-unisex-t-shirt) |
 |---|---|---|
 | [![seer4.jpg](seer4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-lycra-tapestry-backdrop-starseer) | |
+

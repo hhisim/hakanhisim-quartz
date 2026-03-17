@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[Indras Net - WEB.jpg]]
@@ -28,3 +31,4 @@ January 2, ‎2017
 | [![ind1.jpg](ind1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/indras-net-stretched-canvas-print) | [![ind2.jpg](ind2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/indras-net-artwork-tapestry) | [![ind3.jpg](ind3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/indras-net-draped-kimono) |
 | --- | --- | --- |
 | [![ind4.jpg](ind4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/indras-net-kimono-robe) | [![ind5.jpg](ind5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/indras-net-mouse-pad) | [![ind6.jpg](ind6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/indras-net-wrap-skirt) |
+

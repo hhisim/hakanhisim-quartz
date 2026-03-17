@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Translating Xenoglossolalia: The Psychedelic Tricksters & Spiritual Liberation**
 Intertwined with [[Universal Transmissions]]
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
  ![[Telluric Arcanum.jpg]]
@@ -31,3 +34,4 @@ January 18, ‎2016
 | [![tell1.jpg](tell1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-of-morningstar) | [![tell2.jpg](tell2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/telluric-arcanum-artwork-tapestry) | [![tell3.jpg](tell3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/telluric-arcanum-micro-fleece-blanket) |
 |---|---|---|
 | [![tell4.jpg](tell4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/telluric-arcanum-puzzle) | | |
+

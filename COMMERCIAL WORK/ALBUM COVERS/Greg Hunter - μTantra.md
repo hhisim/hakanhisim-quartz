@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Greg Hunter - μTantra**
 
 ![[a0282209018_65.jpg]]![[4 disc digipack μTantra v3 copy.jpg]]

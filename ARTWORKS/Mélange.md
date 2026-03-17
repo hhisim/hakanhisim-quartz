@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[[Fethiye]], Turkey
 ![[Mélange - wEB .jpg]]
 ## Narrative:
@@ -24,3 +27,4 @@ December 16, ‎2024
 | ---------------------------- | ---------------------------- | ---------------------------- | --- |
 | ![mel4.jpg](DETAILS/mel4.jpg) | ![mel5.jpg](DETAILS/mel5.jpg) | ![mel6.jpg](DETAILS/mel6.jpg) |     |
 | ![mel7.jpg](DETAILS/mel7.jpg) |                              |                              |     |
+

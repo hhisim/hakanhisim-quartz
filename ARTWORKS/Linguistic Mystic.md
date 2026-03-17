@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
   
 ![[UT -  Dreamtime Physics - web.jpg]]
@@ -27,3 +30,4 @@ February 1, ‎2020
 | [![ling1.jpg](ling1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/linguistic-mystic-stretched-canvas-print) | [![ling2.jpg](ling2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/linguistic-mystic-artwork-tapestry) | [![ling3.jpg](ling3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/linguistic-mystic-bedding-set) |
 | --- | --- | --- |
 | [![ling4.jpg](ling4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/linguistic-pillow) | | |
+

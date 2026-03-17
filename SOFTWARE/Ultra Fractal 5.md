@@ -1,1 +1,0 @@
-  The very first fractal generator I ever used played a significant role in the creation of the video "[[Mindless]]." With its help, I crafted high-quality, magnificent psychedelic assets that left a lasting impression. These remarkable fractals later found their place in the hall of fame within my asset library, becoming staple elements visible in many of my artworks.

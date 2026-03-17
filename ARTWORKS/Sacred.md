@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[SACRED---web.jpg]]
@@ -34,4 +37,5 @@ August 28, ‎2013
 # Procure:
 | [![sacr1.jpg](sacr1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sacred-artwork-tapestry) | [![sacr2.jpg](sacr2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/sacred-bedding-set) |
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+
 

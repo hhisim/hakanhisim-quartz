@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alaçatı]], Turkey
 
 ![[Universal Transmissions - Energy Vortices 4.jpg]]
@@ -47,3 +50,4 @@ November 23, ‎2017
 | [![[lv7.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/anahata-rug-heart-chakra) | [![[lv8.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/anahata-sarong-heart-chakra) | [![[lv9.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/anahata-heart-chakra-beach-blanket) |
 | [![[lv10.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/anahata-heart-chakra-hooded-blanket) | [![[lv11.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/anahata-heart-chakra-micro-fleece-cloak) | [![[lv12.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/anahata-heart-chakra-sports-bra) |
 | [![[lv13.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/anahata-heart-chakra-wrap-skirt) | [![[lv1.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/bio-energetic-vortexes-no-4-love-art-print-heart-chakra) | |
+

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Unfolding the Teserract.jpg]]
@@ -26,5 +29,6 @@ From the [[Monochrome]] collection
 **Editing:** Adobe Photoshop
 ## Created on: 
 July 26, ‎2014
+
 
 

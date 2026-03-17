@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Lupin - Ritmo Galactico**
 ![[427C2AD5-0E07-FEB8-E731-D6AFCD958055.jpg]]
 ![[LUPIN - BACK 2.jpg]]

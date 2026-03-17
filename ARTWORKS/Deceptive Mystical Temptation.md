@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Deceptive Mystical Temptation - web.jpg]]
@@ -47,3 +50,4 @@ May 20,  ‎2022
 | [![temp16.jpg](temp16.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/mystic-temptation-micro-fleece-blanket) | [![temp17.jpg](temp17.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/mystic-temptation-peignoir-kimono)        | [![temp18.jpg](temp18.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/mystic-temptation-premium-woodcut-puzzle) |
 | [![temp19.jpg](temp19.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/mystic-temptation-rug)                  | [![temp20.jpg](temp20.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/mystic-temptation-sarong)                 | [![temp21.jpg](temp21.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/mystic-temptation-shower-curtain)         |
 | [![temp22.jpg](temp22.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/mystic-temptation-shower-curtain-ii)    | [![temp23.jpg](temp23.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/mystic-temptation-wrap-skirt)             |                                                                                                                             |
+

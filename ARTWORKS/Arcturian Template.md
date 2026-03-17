@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 ![[Arcturian Template - web.jpg]]
 ## Narrative:
@@ -32,3 +35,4 @@ A cosmic map guiding souls on their journey of awakening, illuminating the path 
 | [![[arcturian4.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/arcturian-template-mouse-pad) | [![[arcturian5.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/arcturian-template-stair-stickers) | [![[arcturian6.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-arcturian-template) |
 
   
+

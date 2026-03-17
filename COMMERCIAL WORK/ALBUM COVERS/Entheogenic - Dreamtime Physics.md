@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Entheogenic - Dreamtime Physics**
 
 ![[Entheogenic - Dreamtime Physics -web.jpg]]![[DTP CD Inlay.jpg]]![[DTP CD2.jpg]]

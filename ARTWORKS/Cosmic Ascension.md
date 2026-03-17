@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[319937967_670529168042397_451541144452300256_n.jpg]]
@@ -47,3 +50,4 @@ December ‎9, ‎2012
 | [![cosm1.jpg](cosm1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/cosmic-ascension-artwork-tapestry) | [![cosm2.jpg](cosm2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/cosmic-ascension-micro-fleece-blanket) | [![cosm3.jpg](cosm3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/cosmic-ascension-puzzle) |
 | --- | --- | --- |
 | [![cosm4.jpg](cosm4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/cosmic-ascension-stretched-canvas-print) |  |  |
+

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Universal Transmissions - Bio-Energetic Vortexes 1.jpg]]
@@ -49,5 +52,6 @@ July 25, ‎2017
 | [![[mroot10.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/muladhara-root-chakra-beach-blanket) | [![[mroot11.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/muladhara-root-chakra-hooded-blanket) | [![[mroot12.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/muladhara-root-chakra-lotus-beach-towel) |
 | [![[mroot13.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/muladhara-root-chakra-lotus-blanket) | [![[mroot14.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/muladhara-root-chakra-micro-fleece-cloak) | [![[mroot15.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/muladhara-root-chakra-sports-bra) |
 | [![[mroot16.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/muladhara-root-chakra-wrap-skirt) | | |
+
 
 

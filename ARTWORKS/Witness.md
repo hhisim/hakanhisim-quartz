@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 ![[The Witness test web.jpg]]
 ## Narrative:
@@ -28,5 +31,6 @@ April 4, ‎2023
 | [![wit4](wit4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/witness-artwork-tapestry) | [![wit5](wit5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/witness-bedding-set) | [![wit6](wit6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/witness-hooded-blanket) |
 | [![wit7](wit7.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/witness-kimono-robe) | [![wit8](wit8.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/witness-microfleece-cloak) | [![wit9](wit9.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/witness-microfleece-ziphoodie) |
 | [![wit10](wit10.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/witness-rug) | | |
+
 
 

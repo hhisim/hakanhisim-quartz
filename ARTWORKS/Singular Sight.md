@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[Singular Sight - web.jpg]]
@@ -48,3 +51,4 @@ January 2, ‎2017
 | [![sight4.jpg](sight4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/singular-sight-cloak) | [![sight5.jpg](sight5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/singular-sight-hooded-tank-top) | [![sight6.jpg](sight6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/singular-sight-legging-shorts) |
 | [![sight7.jpg](sight7.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/singular-sight-long-shorts) | [![sight8.jpg](sight8.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/singular-sight-shorts) | [![sight9.jpg](sight9.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/singular-sight-unisex-t-shirt-1) |
 | [![sight10.jpg](sight10.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/singular-sight-unisex-t-shirt) |
+

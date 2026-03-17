@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]] Turkey
 ![[Asteroidea-Venusia.jpg]]
 ## Narrative:
@@ -43,3 +46,4 @@ When I awoke, I began trying to capture that strange little cosmic starfish whic
 | [![[Asteroidea4.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/asteroidea-venusia-hooded-blanket)            | [![[Asteroidea5.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/asteroidea-venusia-micro-fleece-blanket) | [![[Asteroidea6.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/asteroidea-venusia-neck-gaiter) |
 | [![[Asteroidea7.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/asteroidea-venusia-pillow)                 | [![[Asteroidea8.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/asteroidea-venusia-puzzle) | [![[Asteroidea9.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/asteroidea-venusia-sneakers) |
 | [![[Asteroidea10.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-asteroidea-venusia) | [![[Asteroidea11.jpg]]](https://the-art-of-hakan-hisim.myshopify.com/products/womens-t-shirt-asteroidea-venusia) |                                                                                                            |
+

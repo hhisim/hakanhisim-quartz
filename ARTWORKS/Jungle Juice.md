@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alaçatı]], Turkey
   
 ![[Jungle Juice - web.jpg]]
@@ -38,3 +41,4 @@
 | [![jungle1.jpg](jungle1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/jungle-juice-hooded-blanket) | [![jungle2.jpg](jungle2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/jungle-juice-ii-mens-shorts) | [![jungle3.jpg](jungle3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/jungle-juice-mens-shorts) |
 | --- | --- | --- |
 | [![jungle4.jpg](jungle4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/jungle-juice-micro-fleece-cloak) | [![jungle5.jpg](jungle5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/jungle-juice-peignoir-kimono) | [![jungle6.jpg](jungle6.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-of-jungle-juice) |
+

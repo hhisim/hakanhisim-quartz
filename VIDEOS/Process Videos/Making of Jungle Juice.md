@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Making of Jungle Juice**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vLzTj9sCZjU?si=qH19m-XBI0BBYA0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,4 +17,5 @@ Music: Mental Monkey Bars by Merkaba
 [[Primordial Playroom]]
 [[Deceptive Mystical Temptation]]
 [[Reconnection]]
+
 

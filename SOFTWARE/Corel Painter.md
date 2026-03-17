@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Corel Painter has truly been a game-changer for both my life and my art.
 
 Back in 2011, I began experimenting with ZBrush and my first Wacom tablet. It was likely in a Massive Black class when Android Jones showcased his workflow with Painter that prompted me to dive deep into it.

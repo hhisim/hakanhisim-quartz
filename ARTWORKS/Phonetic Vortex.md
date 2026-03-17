@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
   
 ![[Phonetic Vortex - Web.jpg]]
@@ -36,3 +39,4 @@ December 31, ‎2020
 | [![pho19.jpg](pho19.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/phonetic-vortex-mouse-pad) | [![pho20.jpg](pho20.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/phonetic-vortex-pillow) | [![pho21.jpg](pho21.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/phonetic-vortex-pillow-cover) |
 | [![pho22.jpg](pho22.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/phonetic-vortex-puzzle) | [![pho23.jpg](pho23.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/phonetic-vortex-rug) | [![pho24.jpg](pho24.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/phonetic-vortex-sarong) |
 | [![pho25.jpg](pho25.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/phonetic-vortex-shower-curtain) | [![pho26.jpg](pho26.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/phonetic-vortex-stair-stickers) | [![pho27.jpg](pho27.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/phonetic-vortex-wrap-skirt) |
+

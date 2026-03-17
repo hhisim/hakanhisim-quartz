@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]], Turkey
   
 ![[46444503_10155918732221616_3504519698072993792_n.jpg]]
@@ -37,3 +40,4 @@ May 29,  ‎2019
 # Procure:
 | [![hts1.jpg](hts1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/heal-thyself-artwork-tapestry) | [![hts2.jpg](hts2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/heal-thyself-mouse-pad) | [![hts3.jpg](hts3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-heal-thyself) |
 | --- | --- | --- |
+

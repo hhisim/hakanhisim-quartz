@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alaçatı]], Turkey
 
 ![[Universal Transmissions VIII - Recursive Pantheism - web.jpg]]
@@ -33,3 +36,4 @@ October 18, ‎2017
 # Procure:
 | [![rec1](rec1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/lycra-tapestry-backdrop-of-recursive-pantheism) | [![rec2](rec2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/signed-paper-print-of-universal-transmissions-viii-recursive-pantheism) | [![rec3](rec3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/xl-lycra-tapestry-backdrop-of-recursive-pantheism) |
 |---|---|---|
+

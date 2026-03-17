@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Kaimora - Strike!**
 
 ![[Kaimora Strike EP FULL SIZE - CD Baby copy.jpg]]

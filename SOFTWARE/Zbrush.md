@@ -1,3 +1,6 @@
+---
+publish: true
+---
   
 ZBrush has been an absolute game-changer for me. In fact, it's probably still the most enjoyable piece of software I've ever used.
 

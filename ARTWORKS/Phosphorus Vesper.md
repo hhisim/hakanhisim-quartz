@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Phosphorus Vesper WEB.jpg]]
@@ -26,3 +29,4 @@ March 21, ‎2023
 | ----------------------------------- | ----------------------------------- | ----------------------------------- |
 | ![Vesper4.jpg](details/vesper4.jpg) | ![Vesper5.jpg](details/vesper5.jpg) | ![Vesper6.jpg](details/vesper6.jpg) |
 | ![Vesper7.jpg](details/vesper7.jpg) | ![Vesper8.jpg](details/vesper8.jpg) |                                     |
+

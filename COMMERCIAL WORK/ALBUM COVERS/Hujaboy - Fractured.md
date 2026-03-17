@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Hujaboy - Fractured**
 ![[38457D2B-9B44-7060-F925-4C7735E4F634.jpg]]
 ## Narrative:

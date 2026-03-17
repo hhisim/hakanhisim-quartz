@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[Vaulted---WEB.jpg]]
@@ -41,3 +44,4 @@ December 27, ‎2013
 # Procure:
 | [![vault1](vault1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-lycra-tapestry-backdrop-vaulted) | [![vault2](vault2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/vaulted-puzzle) | |
 |---|---|---|
+

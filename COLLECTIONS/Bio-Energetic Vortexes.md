@@ -1,3 +1,9 @@
+---
+publish: true
+---
+
+
+
 # Bio-Energetic Vortexes
 The series "Energy Vortexes" is an exploration of the main energy wheels, sagras or chakras of apex beings and hyper-dimensional alien lifeforms alike and their relation to the hyper-spatial topology of physical and non-corporeal organs.  
 Spin off subseries of [Universal Transmissions](app://obsidian.md/Universal%20Transmissions)

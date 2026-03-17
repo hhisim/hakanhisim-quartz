@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[Caelestis Lupus web.jpg]]
@@ -37,3 +40,4 @@ Januray 25, ‎2022
 | [![wolf7.jpg](wolf7.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/wolfheart-micro-fleece-cloak) | [![wolf8.jpg](wolf8.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/wolfheart-micro-fleece-zip-up-hoodie) | [![wolf9.jpg](wolf9.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/wolfheart-mouse-mat) |
 | [![wolf10.jpg](wolf10.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/wolfheart-mouse-pad) | [![wolf11.jpg](wolf11.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/wolfheart-premium-woodcut-jigsaw-puzzle-500-1000-pieces) | [![wolf12.jpg](wolf12.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/wolfheart-rug) |
 | [![wolf13.jpg](wolf13.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/wolfheart-sarong) | [![wolf14.jpg](wolf14.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/wolfheart-shower-curtain) | [![wolf15.jpg](wolf15.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/wolfheart-unisex-t-shirt) |
+

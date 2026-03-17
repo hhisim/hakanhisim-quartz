@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Entheogenic - Animism**
 
 ![[Entheogenic - Animism.jpg]]
@@ -30,3 +33,4 @@ Entheogenic's 13th Studio Album
 **Style:** Psy-Trance, Ambient, Downtempo
 **Year:** 2020
 **Procure:** https://entheogenic-usr.bandcamp.com/album/animism
+

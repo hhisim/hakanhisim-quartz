@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[1053099_10151506558506616_695551382_o.jpg]]
@@ -27,6 +30,7 @@ April 15, ‎2004
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[som1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/uv-active-neon-canvas-backdrop-soma-57-x-40-cm>) |
+
 
 
 

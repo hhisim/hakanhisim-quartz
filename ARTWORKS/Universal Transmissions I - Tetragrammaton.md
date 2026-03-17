@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
 
 ![[MANUSCRIPT I - web.jpg]]
@@ -24,3 +27,4 @@ May 27, ‎2014
 # Procure:
 | [![tetr1](tetr1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/universal-transmissions-i-tetragrammaton-limited-edition-metallic-archival-prin) | [![tetr2](tetr2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/xl-lycra-tapestry-backdrop-of-tetragrammaton) | |
 |---|---|---|
+

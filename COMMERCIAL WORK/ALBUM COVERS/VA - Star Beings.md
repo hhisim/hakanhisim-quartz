@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **VA - Star Beings**
 
 ![[8F6C678A-9071-5C95-5D1D-A665B4E4242F.jpg]]

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Alanya]], Turkey
 
 ![[Torroidal Tantra.jpg]]
@@ -40,3 +43,4 @@ April 26, ‎2019
 | [![tor1.jpg](tor1.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/large-lycra-tapestry-backdrop-of-toroidal-tantra) | [![tor2.jpg](tor2.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/toroidal-tantra-artwork-tapestry) | [![tor3.jpg](tor3.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/toroidal-tantra-bedding-set) |
 |---|---|---|
 | [![tor4.jpg](tor4.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/toroidal-tantra-mouse-pad) | [![tor5.jpg](tor5.jpg)](https://the-art-of-hakan-hisim.myshopify.com/products/toroidal-tantra-pillow) | |
+

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Istanbul]], Turkey
   
 ![[MEDICINE MAN web.jpg]]
@@ -19,4 +22,5 @@ July 7, ‎2014
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[med1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/medicine-man-artwork-tapestry>) |
+
 

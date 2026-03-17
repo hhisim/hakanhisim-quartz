@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Codex Videos**
 
 All Videos related to[[The Universal Transmissions Codex Vol.1 - The Unwritten Book that cannot be read.]]

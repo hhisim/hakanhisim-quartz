@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Manmademan - Scarabeus**
 
 ![[883157E8-5818-C24D-63E6-2D1C2DB97E1E.jpg]]

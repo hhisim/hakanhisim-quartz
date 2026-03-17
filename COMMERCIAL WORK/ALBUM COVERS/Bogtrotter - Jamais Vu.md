@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### **Bogtrotter - Jamais Vu**
 
 ![[Jamais Vu EP - web.jpg]]

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
 
 ![[SHAKTA - web 01.jpg]]
@@ -33,6 +36,7 @@ November 18, ‎2023
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[shak1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/shakti-stretched-canvas-print>) |
+
 
 
 

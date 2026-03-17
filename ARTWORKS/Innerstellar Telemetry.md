@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Fethiye]], Turkey
   
 ![[Innerstellar Telemetry - web.jpg]]
@@ -29,5 +32,6 @@ May 10, ‎2023
 |                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- |
 | [![[telem1.jpg]]](<https://the-art-of-hakan-hisim.myshopify.com/products/innerstellar-telemetry-stretched-canvas-printhttps://the-art-of-hakan-hisim.myshopify.com/products/innerstellar-telemetry-stretched-canvas-print>) |
+
 
 
