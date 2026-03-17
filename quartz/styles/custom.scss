@@ -297,3 +297,5 @@ article button:hover, .markdown-content button:hover {
 @media (max-width: 1000px) {
   .graph-outer { margin-top: 12px; }
 }
+
+blockquote::before, blockquote::after { display: none; }
