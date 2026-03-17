@@ -299,3 +299,9 @@ article button:hover, .markdown-content button:hover {
 }
 
 blockquote::before, blockquote::after { display: none; }
+
+/* Fix: sidebar link background-image breaking column layout */
+.left a:not(.page-title a), .right a, .sidebar a {
+  background-image: none !important;
+  background: none !important;
+}
